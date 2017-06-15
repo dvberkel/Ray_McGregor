@@ -1,0 +1,1786 @@
+<?xml version="1.0" encoding="US-ASCII" ?>
+<character id="4f9324af-e245-4850-995c-8ab46f71f33c" version="2">
+	<created_date>Jan 2, 2010</created_date>
+	<modified_date>Jun 15, 2017 2:42 PM</modified_date>
+	<profile>
+		<player_name>Daan van Berkel</player_name>
+		<name>Ray McGregor</name>
+		<age>20</age>
+		<birthday>March 27</birthday>
+		<eyes>green</eyes>
+		<hair>Bald</hair>
+		<skin>Tattooed</skin>
+		<handedness>Right</handedness>
+		<height>5' 10"</height>
+		<weight>155 lb</weight>
+		<SM>0</SM>
+		<gender>Male</gender>
+		<race>Human</race>
+		<tech_level>3</tech_level>
+		<religion>K-Theorist</religion>
+		<!-- The portrait is a PNG file encoded as Base64. -->
+		<portrait>
+iVBORw0KGgoAAAANSUhEUgAAAJAAAADACAYAAADryOpPAABb3UlEQVR42u295XdbebYt2v/Ke/fT
++3DfeOOd88a9475zuvt0VXVBF3VXVYqSglSYmZnRYQY7phhiiJmZmZlBRsm2bMkWrrvm+mnLciop
+6E7sgPaoXZIdW5K1p9aai+b6A3kP7/EvHH/wvgXewwsg7+EFkPfwAsh7eAHkPbyHF0De440AkFOd
+ToeDnE7n7Lf5vpOc3ivjBdCvHA4XgOwOstvtVFVVJSfuewLKe3gB9HQD5GCQ4OT/JiYmyNfXl/IL
+8slitXivihdAv8EAsesCgGBtunu6KTw8nLp7e2h4dISmp6e9V8YLoF+wPk6n68R9B9XW1lFWdjZV
+19ZSS3s7tbS1ud2Y9rPewwugJ0CkOBCsTX5+IZWWVlB6Vg7pRkaptKKSxgwGL4C8APolF6ZA0dHZ
+RRmZOdSnG6DElDQaYAB19vRSdXWVFzxeAP0CgBR/psKiUmpoaqXxKTMVlJZRRU0dTZqnqaysjHQ6
+nfcKeQH0DPfFxySD5r7vA5oyTfP9aTLy1w1NLTQ0PEK9fX3s2vLJ7rB7r5IXQE8HUCODJZndlsVq
+o/FxI5mnZxg4OsrNL6DpGQvl5OVSS0uL9yp5AfT0o6y8knp6+8k4aSKTeYZBY5NTNzBIE0YjGcbH
+qKyinEwmk/dKeQE094DVKSuvEPAMj+hpfGJSQDRhnCKr3UmDw0M0MWmk+oZ6amlt9V6pNx1Annkd
+HGNj49SvGxTg6AaGhA/hVJbIKtZn1MDAMk5QXX09GdkiecN6L4DkGB+foKbmVhpj3gPOMzJqYP5j
+EfBot9MzM6QbHBBLpBvQ0eDgoBc8Xhemjq6ubqqsqhbrMzA4JFEYrA6Ag2gMlmjaMiNWqK2jnYaH
+h0nX3y9JRy+A3lgLpG5RAxsdHSXD2ATpDRPU2dVDU+ZpibpmGESIxKZnAKIpBtE09bP16erppj4O
+60c4vFftHt7jjQOQ3aFqX4iompubaYitSv/AgBDlKfMUmaanaMY6I6d5xkQW2wyfFtKPjcrPjE2M
+i9XyFlrfVAvkAhHIc119A/X1D1J7excZp0w0Y7EwiExicaYtZgbQFE1N4xbnNFugXgbcKLV3dJNe
+b/BetTfVhQFAhrEx6mfw1NQ2UGtbF4PHobLQyAVNzwhgzGxlpsCHTPjaRjrdMHV165gzmZlwj5OX
+Br2hLgwnIjBYntKyKhoeGWPwsPUxWWjCOBvCA1Ams5Xv2/n+DAPHxBZrmEEGoJnJarV5r9yb6MKs
+NgeDxUxt7R0cxre7gGPi2xkBCgCkgQjgUaeNLZKVenoHaFQ/zq7MICT8ydSA93gDLBCyz339A1RV
+XcvRV68ACMBB2I5Q3sSua9LEhJrdGH4WOSGLVQFpaFhP3d19DCIjNTQ0k4V5k+OJhnzv8RoDCO0b
+Bg7bK6tqpIhqYFc2bbGyVbIJ7wGJBmk2TU8yYJhQSzRmFoINYAFQHZ3dzIHGqLq6hsP6Xq8VehkA
+9OKyu3hMhzqdDgaQQ3I7iMB6+vo4LJ9ggHDYbpmRHJBpGiSao65pgGZaRWAWgMjCQLOQ1W6ngaEh
+AVFXVxc9fhwzJ7/kPV5LANnlFn3PODu62mloZIQmJqckfEfhVCtfaNloz5LGjMUm38MtXBmsEaI1
+AC42Np7JeIf3Cr6+ACLShr/w+DabnXz9/GlwcFRyOgAMQAJAaEDxJNG4xc9op+JJM8KDkEvq6Oik
+trY27xV8vQE062JQNM3OyZdoapAJMUAxJk1kFlcNzDwHNCoSs7rANM0gs0oUhwp+XV0DzbAVqqqq
+9vYKve4A0gpXObkFNMDWp6W1i4GDBjKLAAjAgSvTIjGtrcPT8iiQWQRMYxOTVM88Ch2MLS2tbJF6
+vFfxdQSQmvly40fKEeMMnN6+IUkawnVpnYga59FcGk4NPLivOJL6mWk+BweHhUzjFtbIm1h8TS0Q
+iDMOG4fqA0ODEnnpDUbJJmsAQUuHBhR8D7eaVcKpAUr7Wn6Wb9FLHRwcIkOJMuX6kh6ve5phHqIw
+YrLbSv0D/Rx5oc95XCUMXW5KAwnuq0jL5uZCigNZ5vQKwQqNjU1QQEAQPXgQQHEcjb3MhxdAz4EA
+tba28MX2ZWuB/uY2KWdowMEtwDLA7ggZamSqASST2Sw/h1vJE+FrqdhbqLWtk7Ky8qi8okrI+ZNR
+n/d4bVzY7GPn5eVTWFgEDXMID/KsN4zTqH7M7bZqGFybt2wjnwuXKD4hmXr7e8nmsNG4cVzKGwAP
+bscmxhg41RLNFRSWSnHWC6DXOox3ui9qf7+OOjq6SM/AUdxnNheEvugLFy9T+KNIehQRScEhD6mJ
+LReayTQAWe02aXNNS8+kwSE95RcU0+TkpBdAr2cU5nziJL7YU9TY2Ew63ZC0tKI9Y8ZiF1KNqnxM
+bCJblRKy2Z3Up+uj8xd8KDs3hyxMwgGiGauFDBPjVFJawdZrQlzY1JTJC6DX3wIpMQWE252dPcyJ
+2qUXCH0+6PsBkHA/IjKGCovKxbrEJSaSf2AQ6YaGpR5mnlZ1Mbg9zNMDQLBAU1NeC/RaA8iTUNvZ
+soyM6KmpqYVBMurqAVIAQm4oMCiU/AMekq9fAD2OiXfXwGYTizMyhJiZlSO9QUXF5VKg9QLoDQAQ
+ngLpGovFSj09vezGRqRFdcpkZfAoCxQaFkW3bvtSSGgEn+EytYGGMqmbmS3SWDY8YqDYuETSDYxQ
+QUGJuEUvgN4IAKnngBszcAQ214Wxe+Lb1LQsqqispVGDkcH0iO7df0BGo+I4sFIAEML+svIqAVcR
+u7K5JNrpBdB8A2i+VFE1oKIIOjg0RH0ckU2aTOKC0NqBPE9MbCyFhIVJc72RuU1icjKdOHWSSstK
+pelsgsFiGBtny1MkLhCucGZm5oUA/cn73uMZAEKZYT7eKO15phgwGBLs7OqWXJDJpBrKrDa7TKzu
+2bufikvKJPOMQcOsnBwJ65FURDV+VG+g6MexDKARqq1rYMs17QXQmwAgFYk52IVZSa/XS1urKHJM
+z7iaxqzS9jo2PkE9vTp3ghH/hu9rxVaE/wmJyZKxbmxqZgCZX2gKwnu8RC4MAEL/DoYDR0cNYoG0
+CAtA0W4RfQEsqtwxNTsvz/+GMD4nN1+iseqauufeD4TX6RU7/ydI9It+w2Y50IyM5aD2BQukqvIm
+IcjaTFhDY7OM/qDkMT6hqvDahAbuFxaViCgDEolzSbT3eK0BhMNutwlv6e7plylTAAfNYhjxUU1j
+Nqqrb6Sjx05RS2sn/5xOfhYTrBarQ6IvuLDevgHKzs4VlXvv8QYASOvZAQcCke7XDfE57A7j1dTp
+tCQXAaIrV29SYlIapWfkCJAANIAMAEJrLIQ40ROE/mjvscAc6MVFHM45AMIJ0tvb2ycWpKOz351E
+hPXRstK4DX8UTbt2H6Tq2gZ2ZVPyPYxBI39U39DCv9vLPxP1FLEF5++2inMiL9euIKd2/8l/8xLs
+uQDChOcLclrkmRnW3nAzh+N1tfXUyeBpbe2lSSNcmJqBhyUCmKan7XTx4i26dcufoy6TfB8Za/O0
+TaZUdTo9DQ9PUGJiunCpuc/5zwDIo2YHso85No9Hw1StDVOwHiT7Ze6CfC0BpL3hlhkL9bH1GRjQ
+U1fXIAPDJiUNnLBGhrFJysjMpc8/X0wPH0axxXKQYXxK/g0ubIotVU/PEA0OQi+oXqKyfwZA7p5t
+5+zkiM3ukJ7rCeOkRIiKxE+K28StxWJzt+l6x6oXwAIpN+bkyIlDeYOJyfEwA2CKL860WBm4qPyC
+EibJaRQeHkuBgY/k3wAqAAhuDEXXvr4RdoMjlJtbzLe63w0gT9CgNocCb0tLG0d1lVRdUy/CDw2N
+bRwJdlNnVz+7yz6+3yON/B0dnew2R90AetNB9AeQ2idN+osCkPbpNUPOl4HR0NDBnMYoIFEWxsoX
+sYaGhgzU2aGjNWu2UHx8OoPL4pZ7Qf/QwKCe/32AqmqapCTySwB62tYf/B8J1PEJo3RClpaWU2Vl
+lWp2Y2ujBB8sLrdpl7l8pSQyRW1tHZSVlU2lZWVSVlHuzPnGjljPG4BmOYOTwTNJo6OY6+oVLjNh
+nJGRH4BEI8vj4zNUV9dKjQwyk9nm0gqallBepxtlNzbCLqyBKqqqfxOAtMPusoAVlTUMggpR/VAC
+51ZpN7HanMK18Jy4BYCQQpiecUgpBc1uqN21tXdKFFjBwHO4+NEbC6CnRSMvDkBK5hcg6O4eYiBN
+KQBNmAU8UnFnizQwYCCDwcycxCmDiFqoDwDV1bVQWVkdNTZ3UFFx6W+2QLA6Xd29VFVdT80t7VIq
+sdlJHhMnwAJLg9eAU31fWT3tPk4kNQEmcKSMTFijcmn29wLoBbsw7RgYGGTr08lcZpT6dQY3gIQk
+m5T7KC9voNCQx0yWDS7uMyNWCBe8qamD3U4tNfJtXn7Rb+JAcDPt7e3SJoLEpLgxOzSLnC5QWF2W
+RtXl4LamrRb3fZtduTL17wpEzLlFji8xKVWA9Lw7A95wAD07J4Pm+vLyOurr1TOJNtHUlMU1raq6
+DlWoPkInTp6n2tpmucjgSHApFr7IXUxsi4urqaWtiwoLSzye5mkWyPWcuiHJG0FaTwMigKBluPE9
+lSawSOuIxWZ3zePb5Xvoy8b3lOCVzfWzNoncoLSPx25sbJI0ADYMSdDgHih4fRvdXjCAnn4MDSGC
+KmVLNEEmk92tVKYiLYtrCtVEt+/4UUFhmbgW5IfgynDR0DOdm1NC9fWtVFBQrBb4/oIF0ukGKTAo
+jK1EPj+WwwUap1tGTwMQnlsr5HoON+J72jkrN6PabQEwuDMUdkPDIqSbQDLuKMgq2+dxegH0XI7h
+4RFKS8vl8NnEYDK6E4WwQjgBFnx9/cZdSkvPEWsBN6ZcB9pBJtkytUo0hqy0zW7/RQCFhkUKgJQb
+dLrIsU2ApCyJAhWArBFqbdxa+pIss9/TdIs0y4TXBFeINhP/gGBqaW2X1zP7SpyvP4BeTBT27MNg
+GKOiokp2ZWPMZ7pclmfWLagKvYWuXrtN8QmpBO0EJQWsFtMhd1RSUi1WCiCye0R4TwLIzi4mLT2b
+o6U6jr4scqrCrVUiLs36aWDSxB40i6MBRhu7hrVRk7Izc6wSvp+YlCIL9HDfOSfR6Hy9Xdh8HwBQ
+WNhjtiJt1NHRL8KZGq/QVDhwge/e86eY2CQBEL7WLrzeMEWZmUXU2zfC0VQHR2ozTxB38iDsQ/TA
+/6FYMgVUu/txNNKOU7NwACi+ngWL1e22PG810GggA8AghL59xy5+fWPusohnmeS1BNB8diRqh9E4
+SVFRCRzGj3AYXs3mf8rFQawuDmQSixD+6LHwIO0Caxd9fNxM+fnlfMF6JXM84VoFpQFISeqpvwlL
+7e7ee0BlFbU0NmYSSweQwE1qhVu4y1lAzW1u085Z4QeL++tZNTXV8IaM+XmfyzK35mnVX+WM9a+9
+7gUBEOTuEhMzqLdHz1FRnRRMcRG1KEyJLkwzgS6nXbsPiCiVAAw/MzUj9bOCgkqqrWumurom5lFz
+C6raRmiUKeLiktjaRVF9YxuTbwNHfOp5lMj5jDvDrSUqVRSoye1Nz7FAVpsCkQr/7XMk+QD6zq4+
+mW3DaBISlp5Ts6+qEfpNAFqIIyUli8PebqlpwTKA8yDK0iwDAKQ3TFJjU7s0nomLg5WQ+TAHc6gq
+KXv09g1Ke+zsRZr9g9G4Fh4eSXHxyRz664QvqbKITTodtTaR2TDe7k4iaj3YKolod7kpm/wsOJdm
+kdDsD6CgKwApgsioWNq3/zClpGYy72KeNmF8pTcM/SqAFoID4SgpqRAO1Nk5IJlnRGIAEC6YdjEB
+IERlcC2Yn59VLrPw71dRDVuf9vY+GuawXv2xc6MdE19cvweBFBb+mFpbe6T2NjIy4cp429yPrbiX
+xU2otRKGeh1Wd8Q2w9EaLNj0tE30rZWGtVma2iB+DvDk5BbR4iU/UlJyOnV09kjOC5bL7nhNSbRl
+gVLw9fXNEor39AwLcHDBQKZRifd7EMT8ps9VWrBSVnY+Xbp8nbq6+9y7NSCVV1RcQa1tPdTXO6jk
+qJ0a/1HPgczw/fsP6Pz5q5SRUUBtbX18QfUCVqXROCWKaRrHUgRecSSASwv3xdUhzTAxQ6MjJgU0
+WB6TifoHBmVGH6/53v0A4W1nzp4X+ZnqmgYBEfiRwwug53s0N3ewC+uQ1oyRUaNcJJDpgqISBssN
+2rHjIKWl5XC0VUjHjp2h3Pxi4T8a2UWPUHFpJVuWbmpv6yaH3eHqGJwFECrlyBDf9w2g0tIafr5O
+5lO9pB+dkkY2PM6Y9BqZ3S5LAxNc6aTwLRWxmWAFjUzwJ6zicrFpCFrVZ8760IGDxyRijIyKYyA9
+pIjIx6I0kpKaIUVXuDv7a9p/tmAurJc/oXV1baTXY2vzhIAHUYwk89jyIEzfuHEXnTlzlaqrW/gi
+YLxZFVrBj2BF6phENzd1Uk1VA2l/BwDk2V6Rk5PPlsFfOFNBQQW7vhp2N500ODghjwF+hRYOzUWC
+DKv+I7OLiylCPyUWyywWs7i4Uojyho1baMvWnXT06BnKYqA/jkmkY8dPU/DDcLp2/TZFRcdRcUmp
+cKfX1AAtHInuY/Ir/UDDk3yOC4BgDXDxwH0mJx0UGZlEgYGRTIaR8LO7uhcVgHDW1DZJa2xFeY3w
+HWV97HPmutra2unmrfuUytYsNTWbsrIK2fr1Uj0/d1VVEw0OG2SVFICkGvtnhGirqFDdV+TeTP26
+EbZg3ZLZPnT4OB08dIz27jvEADpLERHx0l5y+coNcWcBgSGUmZUnTWgA0GtrgRYijFf1ML20ZICT
+oDcI/EezQJJxZmuTlpZHfn6hEuZLtV56hRR/wcWFGwE5zmPiimhHs0BP5l0CAh/SufOXKT4hjflK
+KTWx1erqHhSXhv7qjk6O0IbGGEQmASieC4BG2D8yOkFDw2PU3NLJUVY1u6kYtjKnaNOWLbR8xUra
+tHkbAyaY0tPzJcGJnzt56py4sPSMbLauo+7Kv9cCPWcAFZdUixsrKa1mUjwsINKa6yenkMNJoYMH
+j0vORpUZrBLKm2SWzCbjPg0N7ZTGlsWgN7iyvnBhqundztEPssFoHIPFuHzlFsXGJVP0Y3YtTMCb
+W7oZwKMMQh1bsWaqqelkd9ksZY/MrHwmwY3U3TMgvdfZOUVSLN24eTN9/e3XdODwflr01SI6euw4
+h+2H2ALFUFtHj7yuhyGPxIVlZOZIVhrW53XNRS8YgMCBikoqqYYvGJrnCworVUTFQJqU0Noun/jj
+J05THUdsmlq9JPvMKtwur6zlcDmDMjNyZd5e8tAOu4TyNpuVH6ufQVEr3YdwLVu37SafC1fIPyCQ
+Lly8QkeOnpDvF5dUiVWqrm7iMLyYSXCsEOLCojIBdTsD4/KVm7Rm3UZ6+6/v0Z/f+gtt3rqFvvv+
+ewoKDqF7TKAh+AnrA3eHWbat23YxJ0rg77WJC3ttSxkLRaKHh/WSYS4srBKeExwcLcS5uLiWI5de
+iYKwGuFRxGO2AHVuGTxZgTnFRNc4SXWNzZSSlsH8Jo35Sb+qPzmcAiKLZYaKCgv58YtFzQyR2Lbt
+eyQdgILnqTNn2Xqc4NszdOfubTpz7jSFhIXStWs3hXQDNMUlFZSQmMpWK4lOnDwrc2rLlq2nLVv2
+0KrVm8RVJSamCdepqW2UpCbcXmZmLh04cIJ/N0Ma8tGe8trmgRaqi25wcIQtTjdlZxdRdHQaX4hc
+JrkFHDWViSVAkRTEVvERFzcS/mOjqRmLnF1sYRD2l5aXU0tbi3t4ESDCAGNSUjKd4ouMCxyfmEIr
+Vq6nS1euizv7celyWrzke7ZCR5nHbKFVa1bR5i2bad2GTUKS0SaC1leA987dB2wJz1BcfAq71XSq
+rGyk1vYeyfUA5ENDo9SnG6BRw7hEb6jf7dl9hEHnw9YoTwBss3kB9FwPNF7h0wr3ERmZwuAppIqK
+JsrLK6eEhAxxIbhgWdkF1NDYztYhUtTLJIkHF8YurX9ohGrqGmQLYkZmhgrlsR3arupQaDbD71+4
+eI3CwmJo86Y9dOXKXTp6/Cx99fUSqdJv3ryT/v3/+18clt8Ti3L8xFlauWoDu6YIJtr9YvXKOMrD
+z+bllXBU10Mj+gnXMuApEbqCOBZUZDGjhoq8r18QW7v9tG7dVgoNj5YFMa9rQX7BAKQfVQt0YW3i
+4jLZ8pSL9cnOKaXrN+7TRx9/Jhc+xlUM3blrv2R2EVaPI0pjAI0YJqijq0e0hqAdjeKpJilsmbFR
+NVuPqMh4PhP4MWLZTT6m0NAYJrwJdPduIJ9BdOzYOXr//b/Tjp2HaP+B4wKUhyERUpJAHU6Sm4Vl
+FBIaSU3NHQzieiHWsJAtrR3U2d3F4IHO0RTpBgalHhb+KIZf70HasGEHg65wztIZL4CeUxEOivW4
+QK1tvVRe3shcpZbD9gJKScmj3LxSOnz0FFuFB5ScksUu4QGHzmekjxpZYD27NCMa7ZlQo6UDqw+g
+GQQLpDiQ9iJIhDgDA8OlhRaACQ6OEgClpuaz28zmM4eyskooK7OUysoa2ArWM2iT6fHjRKm36Qb0
+ki2H9Skrr6X8gjLpAsDgYUtbB7V3dov1MU5NMcBapL0kMSmDNm3aRVev3ZU5MjUS7QXQcwUQZsPq
+6luouRkVeQO1tw8xQJooI6OQL2gRu5o7dP3afQoIfER79x4lP78QtlAlkvzTDY/RELuRsUkzNbW0
+izWA+Dj0F59s4EKzWVISE93MfCkzPI5Jkl6i7u5hmUsTq5ddTvX1eB1jkvWOi0ujy5dvC9DGxqYl
+2anTGaijY0AKwLW1LaqE0gHN607ZHgTrA8k99AKVlFbRvn3H6fr1e8ylmoVAey3QcwYQtBER9tbU
+tDCHaWVA2flCmfgijkqRFa4Fkcz+/cfJx+c6gyBLShFwRVGxSdTY0kW6QT27sD5xKbiYxslJsT6q
+Kj/bnYhWizt3/ejM2QvSG11T0yTZb2Sx8/IqGJRYXKfn59ZTenqhAMjfP4xCQqIkTzQ6OinJxr4+
+PQOsVUh0NxKRTR0SZYHkY84MglcorGbnFNLNm75sPbOFR1klH+UF0HMm0UbJnUBgobKyRawQOhTH
+xmb4E23lcPoeHTlyRkabQapxiwsXF59KYeExVFRcRcWl1dLSgWiovqHRlQv6ef8xLFA0k/KQkDDm
+JvvYRSVQSVkFu6RqSWYWFlZQUxOiKj1bpFKxPDGxyaKENmow0PCoQTLYqP6Xlal5tAaO0hoaWyUb
+jhl63If7yssvZhdcJJEbLCzqbFDZdzi9UdhzPSBrV1pWKS6iqrJF6lMVFY3sagrIYDDRnTvBfCET
+paTR3NxFSclZFBUdL2Lk8fFpzFGShR+h76a+oUlaV7uZ0D5ZcoLSa0Z6Dun6h+n4sVO0bNkqDq9P
+8wX2lXIDkoXIMqNI2tzcI3zo9m1/unLtBt31vU/llaWUmp7CwNvNBDuQYhl8cfFJVFNbJ+upMIUB
+ST5Ego1NbZL8ROITCUqkAZAbwq57pxdAz/eA2HhqWiZfgB6KjU1n7lMk/Af1L8xv3brpL1xIRpvH
+zFIvK6+oFdWyigqOrh4n8Bkv3Ya4UCVl5WwBqn/2STeMGRigtVTIFuS9dz+k1avX09mzPpLX2bP3
+oGSyYV0ARlijvLwytnjpdO36LTp85IiULT765GP6fNEXdODgYdq77wCd97nI/3aMSfINtjiFAh7I
+8tXVN8m82QP/EInmUKRFCgBpCPtrqie0YABCL3F2bgFNGm3S2lpYWC1WKC09T3JD9+4FMQm9T0ND
+EzQ+Pu2aHbNIYnFg0CCyK3AbWNBSVFwmfTeVldVkd8+IqQMXDovuBnWjHHllSpYYivho/rpw8apY
+CrRfYHwIYIRbBYc5d/4irVm3jrZu306r167h+2to2YoV9LcPP6Zt23fSps1b6dDho3Tz1h3hPhgs
+xAIY1NGOcASJ0B+SMCDUSCYixfBaA2i+JwfQZwNXoNONMZ/okiRifT2H4znFMvNVWFjJn/A7lJKa
+xRamwb3qAB2JsxMUFil4QlOor39IrMDTFvCiLoa2jsGBIfkavCUkNIpOnjpPV67ekB4elDpQPc/g
+8/TZ87Rtx05atXot/bRsGV24dJGCHgbT+QsXZSne7j37aOlPy2n1mnUMtAsCXnC6nr4hOnXaR/JX
+KNoCPEiWBgSGMfAn3KH866Qr9Ifp6ek5UdN8/WHI4qJVFfmZzMxijoRaqKioWsBTzG888iw1tc1s
+LbLpUUSMuBmIcnoKcaJ/GuUOZKg7u9SIz4x80mcjsNl1Uw63NB1Ca1xg1LyuXb/DILhCZ89fYnIe
+RZcuX6bvf/hByhsff/J3dnP72MrcosTkRBrRjwqxzsrOZQ51X0CEObAqtj4DgyMc+t+g8+evUXR0
+EnO0JI4ay2V0++rVu1LY1V7H6ySPt2AAmpw0SzsGZtxT0wooOTlX3FhefhlbglzyDwiRCnhCUrqU
+NbZt3y3NWwjXx8YnxYKhzIA6E6IpiG5iCQtmzjwFDTRlNKJZZTI0wWPjDyYnUDk/e+6SXORLl27Q
+7r272VX9RIu++or27NkvLbFx8QkUEhbMoLlDFy9d4d9LZ/D5CQ8CgECsY2ITyMfnqkSMANCjR3FK
+HMs4IyQdqrNGzK+9ZqpmP3Nh8/XHYZYKozbJKTkcXseKBaqr65TGLIz8IOn3wYef0o2b92QJ3SXm
+Kl9/+z1biUghrf2urYfoYYYkHRrui0sq3SM+GoA0y6P9jSDZVquFEhOTxG0lp2SIWOfZs1fp8OFT
+zHm2MmH+jIGxQxrRtmzdQd98s4T+44//SV8sWkQrVq6Rva4HDh6hg4eOKh50+y6725viFpFFBxFH
+3gq3mMdHRnv5ijXspiv5b2Q+Njj4QlY0vFEkGtYDibkKDuFzcytdHKiLiovrONLKkk/yt4uX0sqV
+G+j+/UA6dOgELV7yExPeR6IJhFwLojLkgEBWIUgOlzdqGJutYzwlqandb2ltpZMnz0gDP3JLIaHR
+TH5P0/oNm+n9v30oXAc7XG/cvE0//PgTfc0gwjK8DRu3SwF21eqN7P7u0pmzF2nn7gPs5nyl6g8S
+DveI6K6qqkE6HKurG2nHzn0S0ucXFLG1TROR9I7Orjn7ztCOq8kAzn6Tnnsh7XkaiQUM4ycledfa
+2i/gqa1tl6xwRkYxxcVlUHJSNq1fv11KAmg4w/2vv15KQUERwi+0aj2mNbJzi5hoM5lm99fW1vmr
+b562dsr3/gMKDg6j+34B7MLu8EXeT2vXb+ZI61O2GKvo8y++pHXrNwhp3n/gKEeIuZSZUUilZbUy
+WQuif+PGff73w/xa0sQlwqJBCD07p4AKiyukYIyW2Fu3/fiDkU66gVEZSaqqaWD3nMr8Llo2F2mH
+w2Ms20Ow2gugJw+j0cwubJja2weopaWf9PppqU/BjYELocC6bdsBvrD32QXUMj+5Sz/+uJatUQiH
+43l8MTKlaAkSHhuXKjWssrJ6kb/75Tdv9g0M9A8hfz5jYpIZEJm0f/8J+vKr72jRl98wkWbrt2oN
+X/i7DIp0GdtBqF9ZWS98CyBABIiiL8aPlFpaCf9MiiQnYY3q6lslF4QuRZRt/PyCKYWDAjTMoU0X
+WxebmtuYh2WxO/WTnJVGtH8Goud8eAYVrySA+nEBqpsZREMynYGMtF4/RfpRbPMxSwFz9+4jdODA
+SQHVvXsP6eOPv6QLF24xaMqYpMZTVFSKVNUxvYEaFawZGr1+/c1Tt6kpmUKeUaRtbdOxRexmbnOc
+3nr7Xdq4aYvsLouMeszuKFUmLQAg5IhgUVDWOHzkJPOhqxKqowEN0R0iS7R0oEMRSUTUypC7Qmss
+RouSk7Pc7SJo2Ne2NmIMGgR9fHz+dn88j4hwDomezwMtGHA7SL51dKg3eVKEDyzSsjEwMEYXL9wU
+19XS0iM6Qrt2HaIvvviOP90FFBDwiCI40kHtKjISExD5/Ikeo9LSKhFv+KW/SZsS7Wf+dOLEObFm
++ew+DYZpsUjfMln/8KOP6adlK4QHIWIDV0Kn4c1b96SveuWqdRy9XRTuhdZcrYMRlgekHmUNtKug
+0ItxIFghyPIhOkORFhl1DBPAxUmOa8ZOxRxFBoeESzOccwHzRb8noPpZGD9fBxbG9fUPSjIQZh4J
+QpUkVIlCDPGBJKMvGa2swyPj7Aa65FONNxydf3AV6M3JzMyTzkNI35VwJKZlfX8JQNq/YUIDQ4Lp
+zG/6+keomi0HqvYf/O0jdmff0NKfVrClwQzYcTp95gLzpL205LsfOfo6JhcfrqiyqlZ4D4g9kpT4
+UCBnhftwc+hZAoAwwoTgIDg40s3j8O/48IwwJxwzTlNyWhZl5eSJMNYsiBxeAD15YHUlioxohUBb
+qCbUpE6rqIBpZha9Pg9DwqRVorOrh2asDpfsnUVm21vbuxkI8QIqTGDMTqk+7W/CG2NzE4v8/AI6
+fuKUjCHDBcFaoLxx+co1OnnqjCsCW8zR1zZavWaDlDji4hNlXAdtuSWl5TIr5vcgQKI0WCDDmFFe
+F3gShh/xQejqHqDR0WnJvGMerlBaU6L5dSdIpr2lrYda2P3mchR34fI12ZeGUN+ByIxeYgAt1FRG
+d0+P7KPA4N3Q8KhL/dTqFndCl19vXy+FR0TwhTxFe/fv5wsUQFeuXqOIyCh2G22SA9JkVjD7hWJm
+V08vYd5/jjK903PLjsoPYZyprJy5FD8+rAmUNaAYgrTA9Rt3xHWd4DD/9JnzMv9++cpt5lxxoniG
+14jMN7og0UqLRCImUTELhgo/3BmsKkaTwI9QHwNIenr0IqAOjofOg+joRKnlId8U9iiKHjHfSs/K
+5egsheoaGvhxGvg96HYrsM3ncuTfDKCFWhqCFQUADiRysUBXE2zShCwrq6to3Yb15Of/gNIyMqQF
+A2sJkAPCWE5rW4f8nKYWhr7otvYuBibU74d/ll3X5t8QeegNo7IJOjs3R3QNjxw9KVnvgoJSGhwe
+ocDghxJ93bx1VxrQEKojU47mMuytx6wX6njo18bYT1BwGD1g6wMlNLSbhIVHywnrA3eLniC4R+S9
+0NFYU9MmxD2NI7IQ5jwHDx+UBOaRY0dp05bNDNhzFBAUSBlZWWyZ2kU+2Gg0vpA62pOA+d0AWiii
+hj0V2Hs6MmqQjkFNWlfJ6yJqURd5aGSY38Q2KVzmMDdAfw8KlyoLPS0/j99FXw5C4lZ+w3t7e59q
+ivFhwbxYU0sjf8LraHh0VCwAiqmbt+wU6zHEFtHn4iUG1FUlsXfbT3qzS0vq+HGHpFwCa4UOR0yj
+3vMNknoaiqjIFaEEA4kaVOMx0QqOpEQaZkREAgLpSENERiIAKKDzPhek0r/vwAF+/a38eyX8AfEX
+jaHFi5eSL4f+rUzSS0pKnvt+2FcaQD29fVI9xxolWCGAQQME9slPTBrJbOGvmaO1dbTTlq3bmV/k
+uCyUkp9TCmHq90DKYRl6+/qZx+jcgJmtvU3y70FxwyiVcd3AAJNepTsEy7Fv/xERYQAvA8c5e86H
+L16gEGxwFQhZoQvy4cNIyYhv3ryDzpy5IiWQs2cu053bkJCpFrIP4Qeta0DTv0YeCAXi3LwSEdXC
+yiokQtesXU8bN2+U1z85OSOcEKPbhUUVdODAcRlk9PUNps6ODqqurpYVny+dBVqIY5CtDqwGLBDa
+ISCtghOjywpEmHSYFNX40VE9X+CDknATSTkXaDTtQvw83CB6ctTjtbufByF9SWmp1KFg1UDeoZiB
+idbAoBC6eu2We5Ydbgw1NnCzgMBgSk7JlMQgNK0hp/eQw+/Q0Md07txVOn7cR7oH0IKCnR8jI1Mu
+QXSzRFyaugc0qBGFodcIoTvGnVHegBADZue3b99Fx0+ekO3UeO16JuZTLtk9JBqhKLJ+wxby8fGR
+jUIFBYVPlD/+tU1B/zKAFqoI19PTJzwG7kjnIqazot7sxswmOYeYz6SnZ/AbH0fBD0PZcvXLqDB+
+Hq4LFgm/B5eGyAW3aJXVkrjxCUlMvK/LxQHnQjsGxqXBWx4y/4D1QfSENIBKFOYJIc/JRV2rWF6f
+UgMxUS8TY3AZFIH7daOEABaCUxMTFpqacjCQBsTKINWAyAt6QegsQIY6J7eQTnBUh4TkpKx2mJa8
+Ecarb96+TaPMy/TjI2xtWyguIY4amhrZCgNMZqmfLVnyA2XwB6iVP3Tt7Z2y6hMDlC9i1dTvAdSC
+AaihoUkAhE87emk8leDRLw0LNM18pbu3hyKio+WiZufkyrYdAEjbN48LCzeI74FT4WtER7joABuW
+qwB8iJaSktOE5wAwsDjI6aD1FBZD1ifkFcnPX79xS2TqAoMeyjSFpsKqKYfg4iOLDL2ioWEjX9B+
+abYHZ4Iwg8aHUGhF1hndBAmJKez6UJANkvwRBhYR5kPg4ebtWzKcODjcz0GDLxPpTXT46GHKzc9l
+0Pbxc+npzp17tGvXXuZCZdTNEWATBw31TAFUEDQ/7uylAhDyKP26ASHQcD8ABECgwDAp1gc8aIqB
+hGasuATVyI6fxc/BMhhdv6NZF7im3j6dhPMlJeWSo0E/D5Tq0a9z9twFCmDwIFJCmynEotQqqWlJ
+SiKXBOuBltdTp8/y8zUIN8FrxEXELdZ1oo8JTWywICieIlJDBT44+JFMY1y8dF1uAaYiKaiOM9e6
+RitWLRewoJYGcg2OhNf1MDSUxjioaGhsobXrNopEHqI7uC64UL3eSHV1jfTD90spOiqG3aWBrWAv
+u9YM6ujofi4A0iJVz02MLzWA2ju65A2rhdJqR5frEz7tBhG2AY4xYcS4ThYsD7s8dALCuuD7U0K0
+J+VnlWTvpAhatnMo38omPuxRpAge9DD4dAN84dlNdnX3yKon8BQlnqnErGANUHpA/QojOtgojdeD
+n0WXI3qu85l74LlhweCGUNKAdcHUbHBwhFTnMRQQxCDC90G+Ea2hLoYKPIC2fMVyacpHpAVXi7+3
+tbVDam0G5j757DIh7gC+NT3t4OcsF75VzOQdekr7meifPnWeBth9Ik2Qwe4RWpP4wGlF4rkX+bdX
+Yj2Lq7+HDy0YgMo5HC4prRSugOyvEiswu4EEYMCiADQdXd1Mgqv5AhZQVU0tlZSXU3tXh5LYZUsE
+RQz8Pi5UI3MQJCfjEhKorKJKpjWKikuovKqKwVovbhORltr+MyllByhsoAiKcRyUIPA17iOrjaQg
+eq7BYeDiYM0g9PAwJJIvYL4MISYkZMlIdl5eJcXGpFJUdIK4SWSyExKTpV6G6dmjR4/TylVrpcdI
+c8XIWpeVV0jkWFxaQhs2bhTraRQJYqtU+SFGir8RgwB79h2W+lpuXjFt3LSdAVqjxM45Mn06gBy/
+y309CaCXlkSjbFCNFH5rl2giIhmoaQDBtPf1DtCjR9HU090vQ3w7tu+hNWs28IVKZzeiYwsTwWFz
+hVgfgA6uCFVykGEdgwCf+Bs374o7wBYdlCo6u/uE64y7tBhRq0LfDqIwWAvMmCFKCgmNYG4ULG4K
+gAJnAdig4QiQakQ5O7uYYmNTpb4F2ZeYmAzy8wsTPoT80oqVqyTLDOsGoCINgXwW2mCLmcvgQ4Lo
+C5YTOaAaBvj2HbulrqZKPHqp4isrOSn5pf0Hjsh7hgz38hVrpT6Hx+7iDxmqCnOnUn4/gGaXIzte
+bgDBTOfllQqRxPqmqakZuUAQ9EY5IZ7D3jZ+o6DE+jA4nD/ZiZSWmkXJSelUVVUrVgJZaUQ4AI6m
+M42Zst7eYVHRuHcvkAGRzKBSg4NjE0r9fnBYL52DsCwAF1xSZlaugA7AAMcBTwFw1BIWh9TncB/d
+AngMKY7KqFCOCGzGxKRQVFSqzLi1tHQzEb8txdjLV67L42I3KwYgMZz449JlMs2hWSFYUWS4MWW7
+6MvFktjEe6CeY1AJgDJxR5vs1m17qbSkVpr10UG56Mvv2cWVS1oEnRVz2zP+eQB5CpW+lABqa+vm
+KKKdOQq0ESfd0Q3MM+a3dAiXO/sYMBl0/14AffLJ57Ri+VoKDAils2cvSZciuAuG9iCY0NLSJRET
+TDqKlUjWpabl8e8j9O0VOWGMTCMHgwo+ZsFgbQAiEGC0m2pL52AF1QrM2c0+ajGd071XTG1xNsun
+H3miGHZdEMlCYxpyPJDQ+/N/vUXLlq9kXhQqFhdEH5EhyidIjB5hl4YSzPSM6j4YHpqQ6dsvv1pC
+t5lDYa4eQwNw7fiQocd6+/YDMnAJ5dozZy7TZ58tFu1GVaZ5MiL7fQD6Z/qEFgxAMXzR0RIKkU1M
+neJiQCgBLqipqZ36ewZp25ZddPTwSTpzyofe++uH9N47H9L+PYfJ5/w1+vd//6MILXT3oOLdQiHM
+STCXXl3TJGPPUP1ISc6RcWUs70URE01rWBEF7oVWCkRL6LEGDwNolP70tKv0YHYDR1sGrGWWtT32
+sBAoUcASpbAlio1FK26OvAa0iXz698/pq6+/Zbe0RzhRRmaWi/dMCLfDcOK69RtdGXaLCD6AxKNJ
+bdmKNXT4yAlxq4NDY/xvRmkDOXz4tCjT4npDP+DjjxfxY+U9o9j62wH0yuWBrl27yxyiVIqK7e29
+1NHeKyPLXd06aUs9uPcYLeJP11/f+ht99MFn9MG7n9If//+3acParXT3TjD9/e+L6auvltLBg6f4
+9xrEyqAOhRrV8RPnJHwGycXFHBoZl+lWWB+4JgwromwREAjL0OoK5S1i0VTpwewClFnaMjQ1e+1W
+WwgDy4Bb5ISgFgsSncW8CMVX9DEhnwROg4mM739YRocOH2FgxYorQ+oBTXVXrlwTEMGVomKPAUms
+eQgIDKdVqzbSkiXLpK03LCyOli/fSLduBTCYpggLBm7c8KX33vsHTU5OPwsKry+AAgMfUVFRrTTJ
+y+adcih/DVI+cxq0la5euYkO7T/OIFpCf/yPtxlE/6A//+c7bJX20pVLd+n779bQd9+tosWLV3A0
+sosJd4xwIKiYARxIFELrsKmlQ0CgNvSY2IUMyhI7/AyauXDxtUUvSp3eLNVzBRKz61QkFu5EU7GH
+ZdIAJvvGOOzGcABabNFxCLeVl1/AkWClDDBiDGjf/gPitnbt3iODiUgLYPf89Rs3mVyvZ9K9Troe
+AXpstIYeUWhoLJ05e5XWrt1GO3ccosrKZpHCGRqapJUrt1BQYBShIwdF5jfGAuF1QGLu+PFL0iZR
+XFQjAMIE6uXL16Wt9Ob1u7RqxTpa9tNqWvT5N/TuO3+jD977mA4fOkEHIUX34KHMYfkHhDGJjaON
+G7fJgCAq5gAF+A2IOoCBAieIr1gKjqDUTotgARDAA0sya1WmXLtSZxfwqnWbCkxqp5jFpZbvslSu
+anstu+OwsHiRuIPF+eHHpXT12jWp/I8a9JKWaG5rZQuYSv6BQfQwNFxaR1BSuXbNl44dvUg7dhym
+ixfvMMeLZqJfITwIY0vV1fX84SqWdZ+QwKmv76D7vqHM6xwiPqHk/eifzgO9chYoN6eYLl2+w+S3
+jyOkERHB3LR5p+jy7N9/lL75eil9/eWP9MMPq+ijD7+gt9/6kBZ9sYR5TTbdvx9Ee/cdoSXfLaNF
+i77jT3OgKJoBlBBjQJ9NbHyKiDAYDFNutXlwDJQVYvk5UBXH95T7UhGgSiHMuPekanU29b0Z92y+
+5t60tIPRVeLAtEVEZJzwKoh4gkBDmPy+3z2qrKmUFhaccF9oPYHuYnFJuUSUeA/a2wYZ1K3SM4RC
+LRRDLl2+zaH7MclDYeGL/B0jKirD/jMIW6GjEwBSJNr5Aj7wLyGAIL6NFD0uHFxXOBPiLxggCLs3
+bdxFf3v/C/rs0yX0yUff0I/fr6N33vqEblzzZwDl0+Jvl7PrWkl/+tMH9H/+H/+dLl26xwBMpPbW
+bmps7KLduw9zBJYrxBOTHrhFk/7g4JgQbkjUIazHv4GgahGgSkiqbDhAhDqdBiJ8D7U3ZLC1+Xxt
+2w+iNRDsQb64cFeQEYZ8zIGDR+nKtZsUl5BMQQ/DpOENURtcLUCDLHdwcLhICWNt5+TUJOnH2Fry
+z4yMILSfoprqDkqIz6Hz525RWHiCLIlphGpt6CMZsQ6PCGfuVE12m2OuPuTrDCC8DrtTdfpicW0v
+Gux1I2xJAsjH5yb5sWn+8G+f0V/+6wN696+f0No1WykyIp5SOCT/4ftVTCbXsZm/Ia0VjyIS6e69
+YJnMaGvr5U9/NEdhaVTDn+SxMYusFsd+esydISIDRwFXwQgP1NEgZoX5dW2BC1wYuI5WrNUKtlpV
+XtvlgXBes0Ta/g6otmIMCHmedes3ydjP3fsBFMBuFrwGSUm0aBjGVQZ6UPZzTFJ//whHoB3U0FTH
+bitfanlwr1hIDK4zMmSWSDIuNpNOn7oq7gvakR999LmsZECZo7e3n62Q7YWIeS4YgJ71xJChs2Or
+jlPtsoD5hTluaOyUTG6AfxiTyXuSbEMPNAhpalo67di5m775djHt2LWXtm3bwWH4VVmFAL5RVFwu
+JYSLl25IeaHPpW2IC2QyO6mzUyc5GkR90DtMZleYxF8jWgMQQIZxwtJop7vBzQUmKIKoirxa1qsi
+M5M7xEcJBSNASAQu/WkV3bnzgNLTC6SFtYktIwqosEAAKpKUXV0o1I7JCDQmP378aRl998OPovpx
+8fJVqenVNzZLJwHaWqFsi46C6zfvyPuVkpLN5HorR4Ctkp038Wt8bSyQZ13laWlx2B8H2cnhUjXE
+pxyiUQjJd+zYR3v376Wz58/K7YlTJ2jXnl303gfv0boNa2npsqW0YdNG6ZmGfs+lK1flUwsyilFh
+zKULVxk3C8EdGjLIWHEsR19IE6D2hgw27oc/ihZlVYAHNTK0kmjZYa3FRFusq1aEW1wzbDOu5jdt
+cR32u7YKgNBgj70cyHXl5ZYLz+tka4dsMwCEHiEkDGGVoKN46vQF/hAspy8WfcvEe4Woo7W2tzN4
+6vk9OEMffvwerVj9I91/cJuyctIpJy+Lbt65LWPcKJXA6iETDSuEaOxFt73OC4C0dDj6eIeGhuZk
+Nj1Hvh0CJQUiNJYhyZeWkUPfff8jffzpp/ymfkm+vg9ow8ZN9Nnni2jRl1/TX999X8SfFi/5gRZ9
+9S1HMmGyDwyVcdS/YI2QWUZOBYVMVP0fx8SLJUOiDhcRoBkYGhGBA5QX2js7aNw4MYfzeN5qq72V
+pMyEhPO4r2WlUZJB7gfJzIdMoo+dOEtZ2YX8PJWyVkrNyI9K0hBW9PSZc/L6UHdbs3aDgOev734k
+bSDtnT0cWUZJu+snn3zK78UP9P4HH9J77/+N3nn3A9kDu33nXklQIq+FzdUVFVVS2YdszisPIM8n
+a2/vEEkTz52hzl84W1vbJGSFZcCcOtYPoOnr3Xc/lDf51CkfCfMBlm++XUqff/4tR3SlUtD0fxAu
+rRVolQXHQIMZTnQWAiSYtED0AyAgpB4YGpb+68zsHErPzCSjaUp2oWqggcWBlYFVgoUBYDTeoy3G
+U2PLE9JPhB5n1OIgMH7h0jVJS2BODOBCpBQYFMQu6gfauGUzxcTFizgn+n/+8dki+q+/vC3Cn2ip
+BRH/8svF9P7fPqW33/6AgfV3+vbrNXTk0CU6cOAsnTt7XUa5b970pyNHz8vaqk4G3fDwiIhGvLIA
+8px+ECEnwwR18SdkfMz4M3L3ZIZCrcZWTU21HJ3U17eyf99Ml5gsHz1yiv7t//0ftHrlOjq8/xj5
+nL8iaqj+AaH09Tc/8Ke+lKIfJ0oLKRTmAR64IJwgxPEcBUFI6vqNu+Iy4HZkXbjwEbM0b+Hi4SKb
+0X04MeniPRYBimZttEZ5/I4C0ZSACK4Q/c7Y6hMSGi4j0QBralqGNIwh2kI3JdwtrMjW7TulHgb3
+g7rXl18tlsFE9CHBtS1Z8pOsX3jrrY/4/mq6cSOAGup7mNNNSVvIqF5PUPKbmSY6ceIi88Q7KqEJ
+l4oZMucrDCC3fAqHwT3sPmprmqTJ69fGcz1fHNo1K8prOeLwIb/7QXTR5yr95U/v0EcffEpfff4N
+R2h/p7Xrt0jdDAnBjMw8uu8bKEBAcRRcBiE4eBUScZoS2a7dB0TsACBAxR2NZgjDUUvC9CuAgmQh
+GrRghXBfWzGl5Xw08GjtrcgxoTiLVgsAdeeuPfT2O+9KRyMsH1pxcYuuw8NHj9KaNetFmArgwkDj
+hx/9Q6wswIgsOjjQf/zHX+iDD/7BkeYtdn+9knk2mRzMcwwCdEyM1LNbBoHHgOLevUckv4XX1cMg
+/Fcb7X8tqfhCAQTrg76UTuYWWCrX2tIp7Ze/luDyfHFD7Fry84o5dI+T2aub1+/Qn//zLfqAOcL3
+/OnEJ/S99z+RBitU0nGiBADlDAAB7bIAECwRgJKRmSuNYFu27hLOAICUlJZJu2pbRwd/qltkHGgc
+rbQms/TpqKY2jeNYpV3EE0Qm19I7JPYAWrRsYEQauopbOUJEoRQN/EXFpWxVYigiKpr27NtLK1as
+Ev6jwv3lbJVWSWssWjYgg/ff/+9/o6++/l7k8TCIiKzz+LhFEqTIDWH2H9zn1BkfWVQDZZOtW3fL
+BwmRGQKEVxZAmvsaHx+nYn7zDHoj5ecWU1lZpfxBv9Sk5PniMIrT0NAs2ocXLlyVlZbffvM9/fWt
+D2jF0jX02T++Zs7wrhRDUUBFaQKNVZFR8TLMp7iLWcaPAR60ocJCILFXJ4XMUf4EN1Jndw/d9/Nj
+LgKh8nIaGhmRjDPWNiEfpCIurUpvcVfitfoY+A/mvZCLucic5+13OFpauZrD+JOyiywsPEJcE2Rb
+UtMzyOeCD4fqy8U6wZK889f3hfSDYKOp7Y9/+ouofiC1gD2xaAvRDUC9w8buyS6Lh1HWgNDDxs3b
+RQ4QLTGHDp1k8N2SxjRYxfk8/vC8wYNjamqKUlJS2QL1sQXqkIhC5SicT6nXPP1AIxUyt7As0cwL
+8hiIn360iP7t//mf9N/+2/8lUroI11H/wjgO1kGhWR5tp2isr6iskmJlVHQs+foFSJ8y9JtlLeWE
+6gJEtLZ7z37VKltdywDSC3nWAARLo9aCG2W3vSLNJncmGmDC7NjRY6eldIGCKYSpED1t2LiZ7t7z
+lbZWfJ1XUEAXL1/in1ssguXQl167bpPoOsJ17dq9j39nq7TSwpKgXAGAogcJX5eU1kjrCzLR6ILc
+teuwWKmK8jqO0pYxaM9KknK+t0O/EBeG8L2rq4dqqhto2mxjC5LJ5nfUg2D/OoAQ+SDMxjjM0p9W
+UnlZLemZROZkl0gnI4b1kKyD1jPI8zrmRBDkBAlFuI5PP9wEBvowBwbNZiyCA5EGyHDRYL0wQoyo
+B5YLF8AzeajlexRgLC7irMovaHdF4zwsG1wptkIjsYnWDFgcWCLMo6H/GRJ5qMI/CAiQnmj8O8Qb
+Nm7aKk33UAN5/4NPhMchPwWQI3IDiGBBDx0+ISNCF5gTdXYOsRurYwAdkRWh6el5DMTN0jeEQBel
+llcSQLPrJpX6BaYn4bowgtLMoTNCedS/fqtvnrFZpZm+srKGflq+ihZ9+Z0ITuXnlos08NKlK+lP
+f36HTpw8J5YIFxHbBrFM5d79B+y24iWpGBEVIwBBvgXFy02bdkiYDUV8FGVz2bIVFJZLTxISe3B/
+2pwZgIKvsbIbpQuQVoAMDfjomYbKGBKUd+76ywUGKYY4J85vF3/HVmWvgAW3mDMLDQ8TAEEeGPNg
+COHRTgvrBX4GGb1bt+9L6A/NapBrSBtjJcMW5jmHDp2hpKRctu6FdPSoj0jFBD18RGfYfWtWEecr
+CaAnM87gMX38KYpiXpLD5BZrtlNT0hTYnsWDPO5PW2eot18nBBzu6k9/+istWbycIsITpHK/es0m
++uijz2jfviMi0wv5lVNsjU6dvijbB8/7QN/ngph2XOD8/FKxTrhIsXEpspMDymSoU6Gu1tbRJ6kD
+dAtqI9boC4ILQw8RyDdCaER+GOlBPxHc4p69h+TEMOHFi1do9eq1kuTEqVkhKIusZ5d27ryPyAIj
+cQjrA4Cg63DN2o0M9lgR6kzgvwWvac+ew7Rt2x4BDkQ8167dThs27CJ//0fsNvPo9u0AIdnr1m9n
+i1pI/RwQjI8b530nx78IIAc9qQivFUsRzSA/gsgCzd/oScZyFbvLST+5gk0TASfXrY3doG5wQBKB
+gUyWly9bK2sQSsvqZdMzVjTdvx8s+zSwQA5ahxcv3pQGrMzMcpEODmewQYM6Pj5TFMiiouMoll0a
+WliRnIQLBCHFTHxqeg61sOtADxFaLHDi9YJfwfUBLEgTwNoh4tm0eYf8HoADtwhXClGqU8x5dnEo
+v2HDRvrxx59o2bIVbDkvscU4wUA4IG4OgMNULJTQYGGuMgFGAACh0I4OHYMknCOr/ZLj2bP7GAPp
+EIf/u2jd2l0UFhoj8/I5OUVSZ0tIyKSengEaHBiUpvr5Xm33LwJo7koBT0V4JLswU7Vr9yH6y1/e
+l0ZwtG9AfkWBzXMpnGeYqCwUbpFRRrofuj2ycpJ50KFDpxkU0fTgQSib8hzp3MOJGhqmIyC+2dEx
+SJAD6u8fE7XXpKRsIZ6RkfFMyBOEAwE44BwAB9wgQIHXGxQcLu4QymGPHrFVYGsVGBQumozRj5Pk
+d7SWWHQQXr12W6wSgHT0yEm2fFC9v0Hr12+mlSvW0JrV6+nA/kO0f+9hAS10pr/7brnoTK9fv40t
+0im6dOmmWJ7auhaRwUN7LjYzQhsSTWrYZn3m9A1avWq7jA8h2441CsgBoWuxo6NH9oHIJIXjFQWQ
+pxWClUFdBiMyyBZjZ+nJkxeYzzSwO9BJlDb7uw4PMLncF4fS3d39MreFCrYqstbL6kvsokBz+YkT
+Pmzmj/CbmyvqGLBOqLijmR6RUUJSmoTDyFJnM2eCwCVWEGRlFgqYoNt83ucqu5BT7EK2iuurrWuV
+ij6Ag0o3Lha6JZOSc/nTXiSSwrAeaNMAeUbeCQN+sECYojjLXOQyh/MPgx/RLSb0u3bup61bdtL2
+bbvo229+kAV62L6IZbynT1+SvWR4zNLSOunNRrQ1NDQuO9ImOXRH8hD3ofzR16unmJh0KuLXg9eP
+efyhIaNMZuj143M+hK+sBcInAOCBtl9VdR0l8YUMCnpEN2/60YoVG2nnzgM0bjTRNLrnHEqVfXY9
+JYk6KdTFoPPTJcrzTVKyAIDOnrtMO3YcECCuXLmRFi9eJoD68cfV0lONVo19+47JNkNNKxEkF0m+
+JOY6UVGJ0sIBIMGCHTlyWh4Dru/ChRuyJBdJOQwL4jVjuzP6htCKUVvbyfzCzo/ZKItZEPVhcgKp
+A+RfwKvu3QugK+zSkFbw8w2SlAJ0oS9fvsku7BpHY74iLoWmNkyhjDMhRyuq5Hf4NJtt0met9Ruh
+k8BstpPRaJFTqX+McDDSLvwNMshQqw0NjZYN1QulNPfcAKRFYCDP0+Zp9sv9bHnCxFLcvRtMx49f
+oFWr1Nw3wmTPPxagQ/kCKwBqquv5wtXIRYTEr0RK7L527jzIF/omu8MPRO733LlrAqitW/cy14kV
++bljx84KGHz4gh08dJJ5Uhm/jkG5cJVVDeISME+GRn68Log3YbLh0KFTspsV/445dDSblbN7wAkQ
+tbbq2LqNsFXKlbwNyiFQ4oALAzdCdIdZdUR6dzniA2ixu6OLgY+aG1IDmLxFiI0FerAsJpNNkpM4
+VVO+kupTUaDJ3eRvMllF/hhTJZ2dg7IkGJYRYEJQUMduF41ks/ThxYLoOWeif86BcKvXj8nA3P79
+xzjcXsdA2EkbN+7mT/s9UbLAoriCgmJq5D8+G/sl8kuoqrKO7xdI+SIoEBIrvrR+3Xb+tOXLBcdF
+huVBFx5AAN4DlwSr4+v7UHhDQEC49BKfP3+TAXJJBMghUI6MLUZ6AN6lP61jznFbmvkLCqro7Nlr
+ooCvlu82i+tCY/4EX1gABgQdlqm4uFbyLhhtRmYafc+oW8F9ISMOLgVFeyQ/NbFQNKB5NuUjOQkQ
+wcqodVU216zZtJyq79ri6r3WxovMqlOSAYReaWx2TE7Jl3n88PDHksU2T89f6D4PAMI6pQk2/Y1i
+HW7c8JOk1zffLKOvvl7Kpj1auEMZu6YW5is52YXU3NRJ9cw/Duw7If3O6zhkPXXqMh0+fEZU6eF+
+jh49yxdspWR9b916wOBIEA50/Ph5AQ46/k4zj8GwYWREGru303T3zkNxQdgEjQuB0gbc6Lp1O2TC
+E6/twMHTDMAw+URjpgt9RdhNhglZzLQjUQeR83KO/pAnwsVEOeEIv44l3/0k+ogg3Gg/UTI1JrdO
+kaaiBqsyY0UHpoPdt4XvW0VEa8ZikVuz3Le6p0CkFicL9uzuuTRYPdVsX8dWup1iHqeISJb8nrRw
+OOdNxfWFAcgp7akWab8sK62iY0fPiev67ruVtG7NbtqyeT8T4Ch2M9epu2uAfTfRgM7AUcoxOnni
+PKUk5ZDPueu0ZtUW2Y2BMDYgIFLWch8/fpG27zhIf/zje7R58x6ZwkATPkL38vI66R8OZzeCSQYk
+B8uZdCN/o1TD2kWwABsFQVaxCRHK86Fhj+WEYj6mKSCngo0/ebklsmI8O7tIxpbREIbwGsN8cDex
+CWm05IfldM7nivQ8X7txT3I4iOJghdLSc4S/QYAc39PpRmgU3QGQ7Jtmd8YRE4CE3qMZq8sS8fen
+psxKJ4ktlUmKuDZRPxscHKdS/hurapqpkPkeRDrRLpuYlCqli/kkzy8UQCDRWOaGCAyf9rPnrnCU
+cI2Bc5AOHTjPXCiULcsVGc+F1ZlkcljHF+zM6QsUxSE25uCj+EImJmTK1GpwcLQACMtYsE356lVf
+sWYbN+wU64PpC3AlrBRAaQGCBK3tXaKvDM2h+MRkaZ3w8w+WMBsNXqg1oScomy0fKujYz9rY3C5t
+piDsWKZSwxdKFvByBAcwYiVBa1sPNbd2UhQT6A2bd9Dm7bspIjqOkhkslQyWwdFx6uTIETkmPA4s
+MKJAdFi2tnXLory6hnqRrmttb6P+gQF326ymTIt1nSZkkyf5NM5I/09v1wi7+h4qKqmjHAZ4cmqO
+pBVQ/kD/kc3mnNfQ/YUBSHtwMxNobGQ2sdlGfQlu4sgRdBGCvEbTTz+tl+avRuZBPSCZbCWmwQuQ
+ijdCYEDPVmlElN17+4bFsjQ1d6rKd3OX/O5RJstbtuzhCOeWtDcgQwzAqgYvo7RygG/ggqIkAEkU
+f/9Q4U63bz+Qpvu2tj4JmVGgBGAQ3SAPg9cMAOAEABCmo9qOgcREti6PGDQQA6/j168b1tM4c5cZ
+vog4rQggZtS6hgnmPAbIEY8bBRyoofUP6KippZmqa2tF4g+ioFiyAt6k1M90smcD8jRQhW1m11la
+Us8utI/KKhoog11sPH/I4LogSwN5nPkOvF4wgNRsEiIxmGLUj1BFB5c5feYKbdu+n/nLfSkRTEwY
+pV96etq10sA+q0mDqMwmJ7tE5gvo8fH3D5bUQGl5FUVEPOawPUUa6dFVCIKK8SCc+B0QVAvfh0Iq
+PpzI8sJiPWbeAP50544/R2Y1Ep0h/AeAsFIKrhBJQVkWx9FgZ2e3jMxApwc8BDJ06PjDmgU8lx1/
+qxP3nfK8yJ7j9Vr5FqfNwbcOu+wAA7hmrBb5d3AegApN9ljfAAIOSwUriiQnXCp6fVpb+xjYHQx2
+HRWXsWVjt+wXECoFYowQod9qvo8XCiDPw2pVkcgEWw5oIiMCQ7YVwHr2wK3TTQbtLrMMM5+bV8Dk
+sVQq+kgyImUPkFitDmntxMW0WBV4cB+RDrgBLiz2ruBvhr7zrdv+TLIfC6CwawyWBb1EqIAj6Vlb
+20gtbR0MmhEBJSYcZvh5FGCcboDitVkBcAiXW20Cdu2DY+O/W6U0+L7dJqBCmy5uQaTxs3gcfLiU
+7pCFLUwzJTJoAzhCzcoqZAA1Sb6qta2XX1OrRIF5hZVsgYqEd8EqYiLDODU1L6H7ggAIT2TlNw59
+xpi26Ozqk8yyCm9/Oex0uIYOUY2HRByy10r+V+VKABaLgMd1IeWi8vfs6tOvXSRlGUhCYrggWD4A
+W6niW0QdDBuDYMUwXYrkpgCBfx/kVtOhBmDwvFZXnguWxeICBZ4X0RUsC4ACFw41fIAIQMfz4Vby
+Y8J3LK7wXmlBi+4QPwd6lELCYugmg/xxXCpzrWQ+UwQ45VWN1NkzyPfL6cKl69JCOzYx6S79zOc2
+n/kDkAsIeIPr6huE6OKAMCYq7b924GLcvuMrTek4NAujgGN3WwNldVSIjAuLWzy31cEXGIOLRJIn
+0X7P5nKPGiDV6yT52iJuBiC0yeuGy8F9PKL2Pc2iWF2A0ZRNcQvXC4uEQUm4ZpwCOJsCCV6rBhyE
+9krlwybKIVNmO9VzYPE4jol9WT1l55VSUEgUBYdGUzPzNbPFSY0tnXTXN0CGC9GC63ANIrziFuhZ
+zsipPtGuf29paZMShZEBZLX9+vAbrBTmv8FFIPunAOQQ14QLqQDkkMdXY9JONajoVPdsTgUgmytD
+bmXrpIFHTcSqn1Wgs8/+u2PWqghoXLdy2hRokKqAe5oFjs296xQREQTAbfx6+dtyOuACrS4r5nKx
+ZlfmGffHsIBYp2dL00wp6fmUlVMiVqeQ3RgsEtIGPf3Dsg4q7NFjkTyGO3fS/K/pegEA+i0N2epr
+k9ksK69/y5pNXCRoPGOOSyyKTbM2GoFVz25zuAisY5Z4i+WTlhCnC3SKv1jtyk3ZHFb+d5vcB0Bw
+C4CgRocEINQzRkb0MgiIpJ7ICvNrx+DhuHGcJk0g02xJp5HHQRIQuR0Lk2MzTZpN8rW4VLY8+D2z
+S91j0jTjMSY0Ke4Tbh0ll9T0PIqKTpIT9bjamlaqrGyUjYwI3fMKK6imvpVSM3PoYViEtPxqFn6+
+LZDn8/1hQZD7G/5g9FAjE4wUP0CD3mCNGOMUngSRBge5XZniQuQ+Pb8/ezpcHEaNLeOEiDgiIrSO
+YIoDOs5wnSiaol86L7/QtfqgiKrrahnUzRKOY4tQS1ur7ObAZEdzawt19XTz91pE13poeIQ6u3ul
+hIL8U3lFtdTSMGKEKRGtfpaSksmkuVJadREd6tga6UdVHzZEFfQGE/XoRqisso4iH8dTWka2dEwK
+WV+ACrznlPEf5vNJ3Rbp19pZZyxSDgDZBRAsYv4VIdYiLYAHj6OAQnOA80sAUpZIcSDVPG+W8Wfk
+X5CFRqYaUQ6iMzST4WJjnwZm3lPTM6m6plamUAEyzMIjl4PRaQAtOTVd1PHTMrKkjRb9zpCtA1Aw
+m4aRZKjhAzRot8V4NSzswJBe8mZ4LVNTFiHWKoIEZ3LI7SS7vKqaRnZfqVRSVilkXUvevhEAUlX3
+3/bHol8IyUAVcdmE/OLW7phraRxOclshT8Dg57SvNXenvud0RVQOl2ydUdwJmtdR4IVKBlZ1I6RH
+7gllCIT0aGwbcyUE4YpESV8/JvPysl0RIun871jJAKsD+V4M+jU1d0jEhKSkAl2pqOEDsIgItb9B
+3K1t9oMAwABEINgY08H38BorGYxw69hoqK0q1XrQF4oHLZjA1C9boBkyGk1z3I5nnscTJG5+I7kg
+u5uozv6eWompuTz1GCoaEjVW10pulEGQ+8FF08J3hPZWq2OOa9Reh2b9LBa7+9+Va1XRJ35OlFdd
+ihwoZyASFZWQuGQBFjSA4DLxfRRL4bIh/qAlLvH6MJPf1NIujf+wXojAdP0DHsBxziuAfkaitVWQ
+LxeALCLMPc0XWUJ0F0i0pJ0GEk/gqAvo8CDbntlsu8t6KWU0uDALk2a1p9UmuRkVGdldn3yVs3Hn
+lFzZZIcrwanyTOo1TJln1Nd2BV4RzbLb3VxNRVpWFaqzm4JL09ZAIeuNpjfFi/JkOyH0FVHYDQwO
+l+IwBgAePAiWlAZKGJBwUZYH3Q987Zz2hQUQugfnO5v5Ww6Vs7FLMlIBxy6tC6g1eeaAtNPh9Cgv
+uKyM9rWni1MAskrUhIq4xfU8Ki+krA8q49OyLdHEkRU0EMcZKBx1WVxRF59WjuQsdouQcUkBIO9k
+1+4r4JtnLK69Zlap4mOOHoMGsDwouqJ8UVvfIkt5YWHQv5TGYTw6J+Ni05gnxZOfX4joGkFsamx8
+3A0eQtoAACLHwgJIC6lfBgC5l+Q6VA0M/TLYymOW0sWMZH/x6X5WBKaR67nJRof7+9Jvw48DYAAQ
+qi5llt1kuDg4B4aGqE/Xz6eOevt7aUQ/Qo3NDXzhO6l/oJ//XUdDI0OkHxtlYE3I11BgNU6hcGqQ
+70Pr0MChP3iOgV0QhgSRCYf1Aa+CxUEvN2T5IviETF9zSy+VlTXIZAZKFyUl1dI3hb4kgP7nYbTn
+YMLCXbuXhgPN3dWgTP+kcVLNOkmB1Kqsi8ttafxH4x+eBBqgQQSncSKE6lgxAD2eduYY4CP41CN0
+hsAlirJoowXRBXkur6iSZSjYXggdodr6Blnsks2hfEpampyZ2VnSNoINQFiS0tzaKvP2TXyLkaBa
+DtuhKI+CaFVVi3Q0ouaWlJQhbbTolPTzi2AgFVFleSuVljTwz9RxKF/O0V+6FHRRAoKFdNLLe/xh
+ocHydPUH9ZZhwSxaQxRh9QSKw02In4y6tEhLszy4xU5WLNKFSjxC6KSUdOkFgugCJFkg76LNgSEM
+h0A49rNi1SQUxTBjj4JuRmY2h/cxdPPmHRFIuHX7nmg5YtAQeSPs/cLuecjNlJXWUl1tGwN2gOrq
+uqigoIYeP06l6OgUiovLlM7C6up2Ki9vouLCen6uSmliw94PvBatTdXudLx09OKlsEC/vl4Rm5ZN
+bM4baXTU4K5ZKdfldNW+nB4E1uYO9aWuZVXLeCF82ewqowBAgUHBdN/vAV25do0BcIfO+Vyge75+
+dOnKFRGFQq4m/FGkqMdjPz1m269cvcEE11/2W6BHCCE6thpqrR+Yvceoc2hoJEVgwjQuldLTC2Um
+rbKyRcBSVtZMVZXtVFPTJVMezc19srAX7bJoM4F2dXFxmaiMOd1FZYdwK6fD7gWQZzLRE0TP2k3l
+cKi+ICyYxXpu5GBUSUMVNKUE4ZzNKqNOheInWhzQm4wkYXdPn7gtJPvQP4ONhZrAN/bBI0kIngFu
+AikZbCbEkl5kntEF8DAkVFYSYJr04KEjdOasjwgqIMGIcWpESAjL8buy0ju3lIGQRrk5ZdKwDxDl
+5Kgp2dycKsrPY7dZ1CiiUejVzssvp2Im0klJmLLolQKtKhA5Zk+nXU4vgDwjLH6jUOv6tV5epDqQ
+ZoAQJi48pOdUL42VyemYEGzcYnMh9quO6LFOqZfambcgmQfXhQ2FkJcDBwKxxp7WwuJiKUWgxbS7
+p4d0g4OUlQOLkiWyMNhnj1YPuLD0jExq7+iUhXAYjcbUKubUMA0BPUfMpZ/3uUJHjp6ku3eD2EUl
+y4RseXmD9PRUVTYJ/6mr6xRrhLEcrKNCwhKdiHDRWiT882FLz9MLIDdgtIr2s5SvPDWEcGMwjAkP
+wagQ5s2gQDYwNMiRUp9ESC1tze7bzu4usTYAD6wPFMKQIYar6+3rYzfziKOfOFHYSM/MlSVvaem5
+slsDTer4HUxWoPAL2eCSklIBT0RktORhfC5ckWUtEVGxQrZB0JFdvnDxOm3Zsltm3x4GRzHYEpk8
+N8r+stLSan5NPdTZ2SfrF5BcRK5LW9uttWU8bUr3ZT/+MN/g+a37OGF9NCEGlEBgCSDKhJ1b8YmJ
+FJcQS5HRERQY7E937t2hBwF+VF5ZRv7+D5iTRPHFD+MLHkJ6vd6dJ8LjdPf2caitRD/RJjIz45gj
+yqTV20SKxkXerVa7qxFOjeEgyQk5XbhKgAGajIjgAEKMYLs7CqzoKXK4CL5D2k7cUHE6PVpFrK8k
+eBauGv8L3/PkQJ6WSKfTUTADYs/e/bRtx07asm07ffjxJ/T1t0tkqRu0lw8ePsSf/AgBW0hoqCik
+ubO2/DiouhvGxhQoHeriOZyz/UE2yTi7uJnrtLky4c/+u1SbCsQk3DU/F7l/+gfIlblxNb6p4vKr
+CZ6XthbmpgPO2YskYb1xUmTjVq1eJ5MW4B5KWsVH5tPR+fizh3E36tulSIvmLzd4nfTU9MG/9kGh
+N+p4pQCEzHTww1DZRQFxJki0QI4F59Vrtyibw2yUPubqVc9dJOs93lAAOV2lCCyY3bR5mwwKYiYd
+w39Ivj1+nCAZZQ1AT54Aj8Ph8F7xNxFAGohAbvMLCkWud/2GbbKZBzo72FwIRYyKqhpyPMPKON80
+3+IF0CyAYDgcruYrNHcFBoXQxcvXRUwB1WqcyAQjV2R7wVbm9+5V9wLoJXJhOIqKi2Wh7qHDJ2n7
+jv3kc/6GiEGFhUVJCymShS86FaFNY3hd4ivkwrRtP+UVlSLnu23bXrpzJ5Cysoql4h0U/Eg0lW1e
+ovxmAMizBvbsddXOOW4DB4qrV6/eFm1AqHzcuxdE9+4HSpcfph4Qqc1nLut5P/4/6xoXyp0uKICe
+nZWeCyDPNwiCBz4+V0VsEyDC3jDo8UDvB5Jvthfswl40gP7Z53ijAPTr5YxnW6CBgSHpEYbY5qVL
+t+hhSKRYHyQVIb+LYuurCiC7a2z69z6Pp7zgK6bS+qIuxrMt0Pj4hEgHQ/Lu2LFzFMD3MceFbTdY
+N/kiOdB8WaDf+jxzuzgdC6LU+pKS6J8DSDvQCoL1CYePnBaZX8jVaeLg0A+yKc23N4LAeoJtrtD7
+/GlGvzIA8pyxx94NiIH7+gYLoUY9LCwsWjby2N6A/MzTQPOvcqjXGkDqjXG4Q/n+/mEh0ei/geI8
+enswPox58zchwaeBRgm72+dwoPmu971SLkwD0OjoGN3l0B3a0VCOR5sptBAhYOBwOp/xaVzY8ZcX
+xZU8rdFCRGOvEIBmXRhqYlglgND90qXrohkY/ThOxnBEX9Fm99hdRvSqtIe+iscrByANRBjLwaYc
+yN0eP3GG7tx9QGXlVe41CmgXBZhmP5GvbtOWF0DP2QJhBBmzV1gF+c23P9Cu3ftlNyrWY0JqRacb
+EAB5Am72cb3HGxuFgQOZTGbZlwoRgq+/+Z6+/GqJaPHUNzTLKPHg8Cg1Moiws/Vlipheh1TBawAg
+B3V2dcsUBMoW2JaDdlZoK0PAAFUMWTzLbqy2poEGdANvDIBe1PNokd5cTvmKAgjqpzrdENXXt4g4
+NxbdXrp8k4IfhstiOihyyASE1Sbbf6Cj86Ycb1wx9Z8J4yHrVltbxy6qjYKCwkWG7srV27LYRHZx
+zShFjtFhg1ggcr4ZSek3shb220D08zepv7+fmls7KD8fM2BhdP3GfYqPTyWjcYrMM06ZGO3p6SMT
+FPEdzjdmSsJrgX4jmcNEK2pessIpt0hKGXfvBVJNTRMZDCZZtqL5asdLrmzhjcIWIBKQFQrMcaCd
+g0gLOyMaOAJDnxA4ksPhbaD3AugXzLNnUfWpQPvFRjXv8ca6sF/KTXhOlf78+97DC6Cn8etnnd7D
+CyAvgLwA8gLoDTn+N9ffmk0RBCF6AAAAAElFTkSuQmCC
+		</portrait>
+	</profile>
+	<HP>0</HP>
+	<FP>0</FP>
+	<total_points>180</total_points>
+	<ST>11</ST>
+	<DX>11</DX>
+	<IQ>11</IQ>
+	<HT>10</HT>
+	<will>0</will>
+	<perception>0</perception>
+	<speed>0</speed>
+	<move>0</move>
+	<include_punch>true</include_punch>
+	<include_kick>true</include_kick>
+	<include_kick_with_boots>true</include_kick_with_boots>
+	<advantage_list>
+		<advantage_container version="2" open="yes">
+			<name>Advantages</name>
+			<advantage version="2">
+				<name>Combat Reflexes</name>
+				<type>Mental</type>
+				<base_points>15</base_points>
+				<reference>B43</reference>
+				<notes>Never freeze; +6 on all IQ rolls to wake up or to recover from surprise or mental stun; Your side gets +1 to initiative rolls (+2 if you're the leader)</notes>
+				<categories>
+					<category>Advantage</category>
+				</categories>
+				<skill_bonus>
+					<name compare="starts with">fast-draw</name>
+					<specialization compare="is anything"></specialization>
+					<amount>1</amount>
+				</skill_bonus>
+				<attribute_bonus>
+					<attribute>dodge</attribute>
+					<amount>1</amount>
+				</attribute_bonus>
+				<attribute_bonus>
+					<attribute>parry</attribute>
+					<amount>1</amount>
+				</attribute_bonus>
+				<attribute_bonus>
+					<attribute>block</attribute>
+					<amount>1</amount>
+				</attribute_bonus>
+				<attribute_bonus>
+					<attribute>fright check</attribute>
+					<amount>2</amount>
+				</attribute_bonus>
+				<prereq_list all="yes">
+					<advantage_prereq has="no">
+						<name compare="is">Enhanced Time Sense</name>
+						<notes compare="is anything"></notes>
+					</advantage_prereq>
+				</prereq_list>
+			</advantage>
+			<advantage version="2">
+				<name>Danger Sense</name>
+				<type>Mental</type>
+				<base_points>15</base_points>
+				<reference>B47</reference>
+				<categories>
+					<category>Advantage</category>
+				</categories>
+			</advantage>
+			<advantage version="2">
+				<name>Fit</name>
+				<type>Physical</type>
+				<base_points>5</base_points>
+				<reference>B55</reference>
+				<notes>+1 to all HT rolls to stay conscious, avoid death, resist disease, resist poison; recover FP at twice the normal rate (but not FP spent for spells or psi powers)</notes>
+				<categories>
+					<category>Advantage</category>
+				</categories>
+			</advantage>
+			<advantage version="2">
+				<name>High Pain Threshold</name>
+				<type>Physical</type>
+				<base_points>10</base_points>
+				<reference>B59</reference>
+				<notes>Never suffer shock penalties when injured; +3 on all HT rolls to avoid knockdown and stunning; +3 to resist torture</notes>
+				<categories>
+					<category>Advantage</category>
+				</categories>
+			</advantage>
+			<advantage version="2">
+				<name>Increased Will</name>
+				<type>Mental</type>
+				<levels>4</levels>
+				<points_per_level>5</points_per_level>
+				<reference>B16</reference>
+				<categories>
+					<category>Advantage</category>
+					<category>Attribute</category>
+				</categories>
+				<attribute_bonus>
+					<attribute>will</attribute>
+					<amount per_level="yes">1</amount>
+				</attribute_bonus>
+			</advantage>
+			<advantage version="2">
+				<name>Talent (Gifted Artist)</name>
+				<type>Mental</type>
+				<levels>4</levels>
+				<points_per_level>5</points_per_level>
+				<modifier version="1">
+					<name>Reaction Bonus</name>
+					<cost type="percentage">0</cost>
+					<affects>total</affects>
+					<notes>Buyers and Critics</notes>
+				</modifier>
+				<reference>B90,PU3:10</reference>
+				<categories>
+					<category>Advantage</category>
+					<category>Talent</category>
+				</categories>
+				<skill_bonus>
+					<name compare="is">Artist</name>
+					<specialization compare="is anything"></specialization>
+					<amount per_level="yes">1</amount>
+				</skill_bonus>
+				<skill_bonus>
+					<name compare="is">Jeweler</name>
+					<specialization compare="is anything"></specialization>
+					<amount per_level="yes">1</amount>
+				</skill_bonus>
+				<skill_bonus>
+					<name compare="is">Leatherworking</name>
+					<specialization compare="is anything"></specialization>
+					<amount per_level="yes">1</amount>
+				</skill_bonus>
+				<skill_bonus>
+					<name compare="is">Photography</name>
+					<specialization compare="is anything"></specialization>
+					<amount per_level="yes">1</amount>
+				</skill_bonus>
+				<skill_bonus>
+					<name compare="is">Sewing</name>
+					<specialization compare="is anything"></specialization>
+					<amount per_level="yes">1</amount>
+				</skill_bonus>
+			</advantage>
+		</advantage_container>
+		<advantage_container version="2" open="yes">
+			<name>Disdvantages</name>
+			<advantage version="2">
+				<name>Amnesia (Partial)</name>
+				<type>Physical</type>
+				<base_points>-10</base_points>
+				<reference>B123</reference>
+				<categories>
+					<category>Disadvantage</category>
+				</categories>
+			</advantage>
+			<advantage version="2">
+				<name>Compulsive Vowing</name>
+				<type>Mental</type>
+				<base_points>-5</base_points>
+				<cr>12</cr>
+				<reference>B129</reference>
+				<categories>
+					<category>Disadvantage</category>
+				</categories>
+			</advantage>
+			<advantage version="2">
+				<name>Disciplines of Faith (Iconagraphy)</name>
+				<type>Mental</type>
+				<base_points>-10</base_points>
+				<reference>B132</reference>
+				<categories>
+					<category>Disadvantage</category>
+				</categories>
+			</advantage>
+			<advantage version="2">
+				<name>Social Stigma (Excommunicated)</name>
+				<type>Social</type>
+				<base_points>-5</base_points>
+				<reference>B155</reference>
+				<notes>-3 Reaction</notes>
+				<categories>
+					<category>Disadvantage</category>
+				</categories>
+			</advantage>
+			<advantage version="2">
+				<name>Vow (Protect All Works of Art)</name>
+				<type>Physical</type>
+				<modifier version="1" enabled="no">
+					<name>Minor</name>
+					<cost type="points">-5</cost>
+					<affects>total</affects>
+					<reference>B161</reference>
+				</modifier>
+				<modifier version="1">
+					<name>Major</name>
+					<cost type="points">-10</cost>
+					<affects>total</affects>
+					<reference>B161</reference>
+				</modifier>
+				<modifier version="1" enabled="no">
+					<name>Great</name>
+					<cost type="points">-15</cost>
+					<affects>total</affects>
+					<reference>B161</reference>
+				</modifier>
+				<reference>B161</reference>
+				<categories>
+					<category>Disadvantage</category>
+				</categories>
+			</advantage>
+		</advantage_container>
+		<advantage_container version="2" open="yes">
+			<name>Quirks</name>
+			<advantage version="2">
+				<name>Like To Discuss Religion</name>
+				<type>Mental</type>
+				<levels>0</levels>
+				<base_points>-1</base_points>
+				<reference>B164</reference>
+				<categories>
+					<category>Quirk</category>
+				</categories>
+			</advantage>
+			<advantage version="2">
+				<name>Like To tattoo Everybody</name>
+				<type>Mental</type>
+				<levels>0</levels>
+				<base_points>-1</base_points>
+				<reference>B164</reference>
+				<categories>
+					<category>Quirk</category>
+				</categories>
+			</advantage>
+			<advantage version="2">
+				<name>Vow</name>
+				<type>Mental</type>
+				<levels>0</levels>
+				<base_points>-1</base_points>
+				<reference>B165</reference>
+				<notes>Pray to moon for Skimr</notes>
+				<categories>
+					<category>Quirk</category>
+				</categories>
+			</advantage>
+			<advantage version="2">
+				<name>Vow</name>
+				<type>Mental</type>
+				<levels>0</levels>
+				<base_points>-1</base_points>
+				<reference>B165</reference>
+				<notes>Slay Treacherous Ollie</notes>
+				<categories>
+					<category>Quirk</category>
+				</categories>
+			</advantage>
+			<advantage version="2">
+				<name>Vow</name>
+				<type>Mental</type>
+				<levels>0</levels>
+				<base_points>-1</base_points>
+				<reference>B165</reference>
+				<notes>Wear Ornis Amulet</notes>
+				<categories>
+					<category>Quirk</category>
+				</categories>
+			</advantage>
+		</advantage_container>
+	</advantage_list>
+	<skill_list>
+		<skill version="2">
+			<name>Animal Handling</name>
+			<specialization>Equines</specialization>
+			<difficulty>IQ/A</difficulty>
+			<points>1</points>
+			<reference>B175</reference>
+			<categories>
+				<category>Animal</category>
+			</categories>
+			<default>
+				<type>IQ</type>
+				<modifier>-5</modifier>
+			</default>
+		</skill>
+		<skill version="2">
+			<name>Artist</name>
+			<specialization>Body Art</specialization>
+			<difficulty>IQ/H</difficulty>
+			<points>1</points>
+			<reference>B179</reference>
+			<categories>
+				<category>Arts/Entertainment</category>
+			</categories>
+			<default>
+				<type>IQ</type>
+				<modifier>-6</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Artist</name>
+				<specialization>Calligraphy</specialization>
+				<modifier>-4</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Artist</name>
+				<specialization>Drawing</specialization>
+				<modifier>-4</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Artist</name>
+				<specialization>Illumination</specialization>
+				<modifier>-4</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Artist</name>
+				<specialization>Painting</specialization>
+				<modifier>-4</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Artist</name>
+				<modifier>-6</modifier>
+			</default>
+		</skill>
+		<skill version="2">
+			<name>Artist</name>
+			<specialization>Calligraphy</specialization>
+			<difficulty>IQ/H</difficulty>
+			<points>1</points>
+			<reference>B179</reference>
+			<categories>
+				<category>Arts/Entertainment</category>
+			</categories>
+			<default>
+				<type>IQ</type>
+				<modifier>-6</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Artist</name>
+				<specialization>Drawing</specialization>
+				<modifier>-2</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Artist</name>
+				<specialization>Illumination</specialization>
+				<modifier>-2</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Artist</name>
+				<specialization>Painting</specialization>
+				<modifier>-2</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Artist</name>
+				<specialization>Body Art</specialization>
+				<modifier>-4</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Artist</name>
+				<modifier>-6</modifier>
+			</default>
+		</skill>
+		<skill version="2">
+			<name>Artist</name>
+			<specialization>Drawing</specialization>
+			<difficulty>IQ/H</difficulty>
+			<points>4</points>
+			<reference>B179</reference>
+			<categories>
+				<category>Arts/Entertainment</category>
+			</categories>
+			<default>
+				<type>IQ</type>
+				<modifier>-6</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Artist</name>
+				<specialization>Calligraphy</specialization>
+				<modifier>-2</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Artist</name>
+				<specialization>Illumination</specialization>
+				<modifier>-2</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Artist</name>
+				<specialization>Painting</specialization>
+				<modifier>-2</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Artist</name>
+				<specialization>Body Art</specialization>
+				<modifier>-4</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Artist</name>
+				<modifier>-6</modifier>
+			</default>
+		</skill>
+		<skill version="2">
+			<name>Artist</name>
+			<specialization>Sculpting</specialization>
+			<difficulty>IQ/H</difficulty>
+			<points>1</points>
+			<reference>B179</reference>
+			<categories>
+				<category>Arts/Entertainment</category>
+				<category>Craft</category>
+			</categories>
+			<default>
+				<type>IQ</type>
+				<modifier>-6</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Artist</name>
+				<modifier>-6</modifier>
+			</default>
+		</skill>
+		<skill version="2">
+			<name>Artist</name>
+			<specialization>Woodworking</specialization>
+			<difficulty>IQ/H</difficulty>
+			<points>1</points>
+			<reference>B179</reference>
+			<categories>
+				<category>Arts/Entertainment</category>
+				<category>Craft</category>
+			</categories>
+			<default>
+				<type>IQ</type>
+				<modifier>-6</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Carpentry</name>
+				<modifier>-3</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Artist</name>
+				<specialization>Interior Decorating</specialization>
+				<modifier>-4</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Artist</name>
+				<specialization>Scene Design</specialization>
+				<modifier>-4</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Artist</name>
+				<modifier>-6</modifier>
+			</default>
+		</skill>
+		<skill version="2">
+			<name>Axe/Mace</name>
+			<difficulty>DX/A</difficulty>
+			<points>1</points>
+			<reference>B208</reference>
+			<categories>
+				<category>Combat/Weapon</category>
+				<category>Melee Combat</category>
+			</categories>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Two-Handed Axe/Mace</name>
+				<modifier>-3</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Flail</name>
+				<modifier>-4</modifier>
+			</default>
+		</skill>
+		<skill version="2">
+			<name>Bow</name>
+			<difficulty>DX/A</difficulty>
+			<points>4</points>
+			<reference>B182</reference>
+			<categories>
+				<category>Combat/Weapon</category>
+				<category>Ranged Combat</category>
+			</categories>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+		</skill>
+		<skill version="2">
+			<name>Boxing</name>
+			<difficulty>DX/A</difficulty>
+			<points>2</points>
+			<reference>B182</reference>
+			<categories>
+				<category>Combat/Weapon</category>
+				<category>Melee Combat</category>
+			</categories>
+			<weapon_bonus>
+				<name compare="is">Boxing</name>
+				<specialization compare="is anything"></specialization>
+				<level compare="at least">1</level>
+				<amount per_level="yes">1</amount>
+			</weapon_bonus>
+			<weapon_bonus>
+				<name compare="is">Boxing</name>
+				<specialization compare="is anything"></specialization>
+				<level compare="at least">2</level>
+				<amount per_level="yes">1</amount>
+			</weapon_bonus>
+		</skill>
+		<skill version="2">
+			<name>Broadsword</name>
+			<difficulty>DX/A</difficulty>
+			<points>16</points>
+			<reference>B208</reference>
+			<categories>
+				<category>Combat/Weapon</category>
+				<category>Melee Combat</category>
+			</categories>
+			<default>
+				<type>Skill</type>
+				<name>Force Sword</name>
+				<modifier>-4</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Rapier</name>
+				<modifier>-4</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Saber</name>
+				<modifier>-4</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Shortsword</name>
+				<modifier>-2</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Two-Handed Sword</name>
+				<modifier>-4</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+		</skill>
+		<skill version="2">
+			<name>Climbing</name>
+			<encumbrance_penalty_multiplier>1</encumbrance_penalty_multiplier>
+			<difficulty>DX/A</difficulty>
+			<points>2</points>
+			<reference>B183</reference>
+			<categories>
+				<category>Athletic</category>
+				<category>Criminal/Street</category>
+				<category>Outdoor/Exploration</category>
+			</categories>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+		</skill>
+		<skill version="2">
+			<name>Diagnosis</name>
+			<tech_level>3</tech_level>
+			<difficulty>IQ/H</difficulty>
+			<points>4</points>
+			<reference>B187</reference>
+			<categories>
+				<category>Medical</category>
+			</categories>
+			<default>
+				<type>IQ</type>
+				<modifier>-6</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>First Aid</name>
+				<modifier>-8</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Physician</name>
+				<modifier>-4</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Veterinary</name>
+				<modifier>-5</modifier>
+			</default>
+		</skill>
+		<skill version="2">
+			<name>Fast-Draw</name>
+			<specialization>Arrow</specialization>
+			<difficulty>DX/E</difficulty>
+			<points>1</points>
+			<reference>B194</reference>
+			<categories>
+				<category>Combat/Weapon</category>
+				<category>Ranged Combat</category>
+			</categories>
+		</skill>
+		<skill version="2">
+			<name>Fast-Draw</name>
+			<specialization>Knife</specialization>
+			<difficulty>DX/E</difficulty>
+			<points>1</points>
+			<reference>B194</reference>
+			<categories>
+				<category>Combat/Weapon</category>
+				<category>Melee Combat</category>
+			</categories>
+		</skill>
+		<skill version="2">
+			<name>Fast-Draw</name>
+			<specialization>Sword</specialization>
+			<difficulty>DX/E</difficulty>
+			<points>1</points>
+			<reference>B194</reference>
+			<categories>
+				<category>Combat/Weapon</category>
+				<category>Melee Combat</category>
+			</categories>
+		</skill>
+		<skill version="2">
+			<name>First Aid</name>
+			<tech_level>3</tech_level>
+			<difficulty>IQ/E</difficulty>
+			<points>2</points>
+			<reference>B195</reference>
+			<categories>
+				<category>Everyman</category>
+				<category>Medical</category>
+			</categories>
+			<default>
+				<type>IQ</type>
+				<modifier>-4</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Esoteric Medicine</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Physician</name>
+				<modifier>0</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Veterinary</name>
+				<modifier>-4</modifier>
+			</default>
+		</skill>
+		<skill version="2">
+			<name>Hiking</name>
+			<difficulty>HT/A</difficulty>
+			<points>1</points>
+			<reference>B200</reference>
+			<categories>
+				<category>Athletic</category>
+				<category>Outdoor/Exploration</category>
+			</categories>
+			<default>
+				<type>HT</type>
+				<modifier>-5</modifier>
+			</default>
+		</skill>
+		<skill version="2">
+			<name>Leadership</name>
+			<difficulty>IQ/A</difficulty>
+			<points>4</points>
+			<reference>B204</reference>
+			<categories>
+				<category>Military</category>
+				<category>Social</category>
+			</categories>
+			<default>
+				<type>IQ</type>
+				<modifier>-5</modifier>
+			</default>
+		</skill>
+		<skill version="2">
+			<name>Leatherworking</name>
+			<difficulty>DX/E</difficulty>
+			<points>1</points>
+			<reference>B205</reference>
+			<categories>
+				<category>Craft</category>
+			</categories>
+			<default>
+				<type>DX</type>
+				<modifier>-4</modifier>
+			</default>
+		</skill>
+		<skill version="2">
+			<name>Masonry</name>
+			<difficulty>IQ/E</difficulty>
+			<points>1</points>
+			<reference>B207</reference>
+			<categories>
+				<category>Craft</category>
+			</categories>
+			<default>
+				<type>IQ</type>
+				<modifier>-4</modifier>
+			</default>
+		</skill>
+		<skill version="2">
+			<name>Parry Missile-Weapons</name>
+			<difficulty>DX/H</difficulty>
+			<points>4</points>
+			<reference>B212</reference>
+			<categories>
+				<category>Combat/Weapon</category>
+				<category>Melee Combat</category>
+			</categories>
+		</skill>
+		<skill version="2">
+			<name>Riding</name>
+			<specialization>Equine</specialization>
+			<difficulty>DX/A</difficulty>
+			<points>2</points>
+			<reference>B217</reference>
+			<categories>
+				<category>Animal</category>
+			</categories>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Animal Handling</name>
+				<specialization>Equine</specialization>
+				<modifier>-3</modifier>
+			</default>
+		</skill>
+		<skill version="2">
+			<name>Running</name>
+			<difficulty>HT/A</difficulty>
+			<points>2</points>
+			<reference>B218</reference>
+			<categories>
+				<category>Athletic</category>
+			</categories>
+			<default>
+				<type>HT</type>
+				<modifier>-5</modifier>
+			</default>
+		</skill>
+		<skill version="2">
+			<name>Seamanship</name>
+			<tech_level>3</tech_level>
+			<difficulty>IQ/E</difficulty>
+			<points>1</points>
+			<reference>B185</reference>
+			<categories>
+				<category>Vehicle</category>
+			</categories>
+			<default>
+				<type>IQ</type>
+				<modifier>-4</modifier>
+			</default>
+		</skill>
+		<skill version="2">
+			<name>Shield</name>
+			<specialization>Shield</specialization>
+			<difficulty>DX/E</difficulty>
+			<points>4</points>
+			<reference>B220</reference>
+			<categories>
+				<category>Combat/Weapon</category>
+				<category>Melee Combat</category>
+			</categories>
+			<default>
+				<type>DX</type>
+				<modifier>-4</modifier>
+			</default>
+		</skill>
+		<skill version="2">
+			<name>Shortsword</name>
+			<difficulty>DX/A</difficulty>
+			<points>0</points>
+			<reference>B209</reference>
+			<categories>
+				<category>Combat/Weapon</category>
+				<category>Melee Combat</category>
+			</categories>
+			<default>
+				<type>Skill</type>
+				<name>Broadsword</name>
+				<modifier>-2</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Force Sword</name>
+				<modifier>-4</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Jitte/Sai</name>
+				<modifier>-3</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Knife</name>
+				<modifier>-4</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Saber</name>
+				<modifier>-4</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Smallsword</name>
+				<modifier>-4</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Tonfa</name>
+				<modifier>-3</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+		</skill>
+		<skill version="2">
+			<name>Singing</name>
+			<difficulty>HT/E</difficulty>
+			<points>2</points>
+			<reference>B220</reference>
+			<categories>
+				<category>Arts/Entertainment</category>
+			</categories>
+			<default>
+				<type>HT</type>
+				<modifier>-4</modifier>
+			</default>
+		</skill>
+		<skill version="2">
+			<name>Stealth</name>
+			<encumbrance_penalty_multiplier>1</encumbrance_penalty_multiplier>
+			<difficulty>DX/A</difficulty>
+			<points>4</points>
+			<reference>B222</reference>
+			<categories>
+				<category>Criminal/Street</category>
+				<category>Police</category>
+				<category>Spy</category>
+			</categories>
+			<default>
+				<type>IQ</type>
+				<modifier>-5</modifier>
+			</default>
+			<default>
+				<type>DX</type>
+				<modifier>-5</modifier>
+			</default>
+		</skill>
+		<skill version="2">
+			<name>Strategy</name>
+			<specialization>Land</specialization>
+			<difficulty>IQ/H</difficulty>
+			<points>2</points>
+			<reference>B222</reference>
+			<categories>
+				<category>Military</category>
+			</categories>
+			<default>
+				<type>IQ</type>
+				<modifier>-6</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Intelligence Analysis</name>
+				<modifier>-6</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Tactics</name>
+				<modifier>-6</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Strategy</name>
+				<modifier>-4</modifier>
+			</default>
+		</skill>
+		<skill version="2">
+			<name>Strategy</name>
+			<specialization>Naval</specialization>
+			<difficulty>IQ/H</difficulty>
+			<points>2</points>
+			<reference>B222</reference>
+			<categories>
+				<category>Military</category>
+			</categories>
+			<default>
+				<type>IQ</type>
+				<modifier>-6</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Intelligence Analysis</name>
+				<modifier>-6</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Tactics</name>
+				<modifier>-6</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Strategy</name>
+				<modifier>-4</modifier>
+			</default>
+		</skill>
+		<skill version="2">
+			<name>Swimming</name>
+			<encumbrance_penalty_multiplier>2</encumbrance_penalty_multiplier>
+			<difficulty>HT/E</difficulty>
+			<points>4</points>
+			<reference>B224</reference>
+			<categories>
+				<category>Athletic</category>
+				<category>Outdoor/Exploration</category>
+			</categories>
+			<default>
+				<type>HT</type>
+				<modifier>-4</modifier>
+			</default>
+		</skill>
+		<skill version="2">
+			<name>Tactics</name>
+			<difficulty>IQ/H</difficulty>
+			<points>2</points>
+			<reference>B224</reference>
+			<categories>
+				<category>Military</category>
+				<category>Police</category>
+			</categories>
+			<default>
+				<type>IQ</type>
+				<modifier>-6</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Strategy</name>
+				<modifier>-6</modifier>
+			</default>
+		</skill>
+		<skill version="2">
+			<name>Teaching</name>
+			<difficulty>IQ/A</difficulty>
+			<points>2</points>
+			<reference>B224</reference>
+			<categories>
+				<category>Scholarly</category>
+				<category>Social</category>
+			</categories>
+			<default>
+				<type>IQ</type>
+				<modifier>-5</modifier>
+			</default>
+		</skill>
+		<skill version="2">
+			<name>Theology</name>
+			<specialization>General</specialization>
+			<difficulty>IQ/H</difficulty>
+			<points>2</points>
+			<reference>B226</reference>
+			<categories>
+				<category>Social Sciences/Humanities</category>
+			</categories>
+			<default>
+				<type>IQ</type>
+				<modifier>-6</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Religious Ritual</name>
+				<specialization>General</specialization>
+				<modifier>-4</modifier>
+			</default>
+		</skill>
+		<skill version="2">
+			<name>Thrown Weapon</name>
+			<specialization>Axe/Mace</specialization>
+			<difficulty>DX/E</difficulty>
+			<points>1</points>
+			<reference>B226</reference>
+			<categories>
+				<category>Combat/Weapon</category>
+				<category>Ranged Combat</category>
+			</categories>
+			<default>
+				<type>DX</type>
+				<modifier>-4</modifier>
+			</default>
+		</skill>
+		<skill version="2">
+			<name>Thrown Weapon</name>
+			<specialization>Knife</specialization>
+			<difficulty>DX/E</difficulty>
+			<points>1</points>
+			<reference>B226</reference>
+			<categories>
+				<category>Combat/Weapon</category>
+				<category>Ranged Combat</category>
+			</categories>
+			<default>
+				<type>DX</type>
+				<modifier>-4</modifier>
+			</default>
+		</skill>
+		<skill version="2">
+			<name>Tracking</name>
+			<difficulty>Per/A</difficulty>
+			<points>4</points>
+			<reference>B226</reference>
+			<categories>
+				<category>Outdoor/Exploration</category>
+			</categories>
+			<default>
+				<type>Per</type>
+				<modifier>-5</modifier>
+			</default>
+			<default>
+				<type>Skill</type>
+				<name>Naturalist</name>
+				<modifier>-5</modifier>
+			</default>
+		</skill>
+		<skill version="2">
+			<name>Wrestling</name>
+			<difficulty>DX/A</difficulty>
+			<points>1</points>
+			<reference>B228</reference>
+			<categories>
+				<category>Combat/Weapon</category>
+				<category>Melee Combat</category>
+			</categories>
+		</skill>
+	</skill_list>
+	<equipment_list>
+		<equipment version="3" state="equipped">
+			<quantity>1</quantity>
+			<description>Broadsword</description>
+			<tech_level>2</tech_level>
+			<legality_class>4</legality_class>
+			<value>500</value>
+			<weight>3 lb</weight>
+			<reference>B271</reference>
+			<melee_weapon>
+				<damage>sw+1 cut</damage>
+				<strength>10</strength>
+				<usage>Swung</usage>
+				<reach>1</reach>
+				<parry>0</parry>
+				<block>No</block>
+				<default>
+					<type>DX</type>
+					<modifier>-5</modifier>
+				</default>
+				<default>
+					<type>Skill</type>
+					<name>Force Sword</name>
+					<modifier>-4</modifier>
+				</default>
+				<default>
+					<type>Skill</type>
+					<name>Broadsword</name>
+					<modifier>0</modifier>
+				</default>
+				<default>
+					<type>Skill</type>
+					<name>Rapier</name>
+					<modifier>-4</modifier>
+				</default>
+				<default>
+					<type>Skill</type>
+					<name>Saber</name>
+					<modifier>-4</modifier>
+				</default>
+				<default>
+					<type>Skill</type>
+					<name>Shortsword</name>
+					<modifier>-2</modifier>
+				</default>
+				<default>
+					<type>Skill</type>
+					<name>Two-Handed Sword</name>
+					<modifier>-4</modifier>
+				</default>
+				<default>
+					<type>Skill</type>
+					<name>Sword!</name>
+					<modifier>0</modifier>
+				</default>
+			</melee_weapon>
+			<melee_weapon>
+				<damage>thr+1 cr</damage>
+				<strength>10</strength>
+				<usage>Thrust</usage>
+				<reach>1</reach>
+				<parry>0</parry>
+				<block>No</block>
+				<default>
+					<type>DX</type>
+					<modifier>-5</modifier>
+				</default>
+				<default>
+					<type>Skill</type>
+					<name>Force Sword</name>
+					<modifier>-4</modifier>
+				</default>
+				<default>
+					<type>Skill</type>
+					<name>Broadsword</name>
+					<modifier>0</modifier>
+				</default>
+				<default>
+					<type>Skill</type>
+					<name>Rapier</name>
+					<modifier>-4</modifier>
+				</default>
+				<default>
+					<type>Skill</type>
+					<name>Saber</name>
+					<modifier>-4</modifier>
+				</default>
+				<default>
+					<type>Skill</type>
+					<name>Shortsword</name>
+					<modifier>-2</modifier>
+				</default>
+				<default>
+					<type>Skill</type>
+					<name>Two-Handed Sword</name>
+					<modifier>-4</modifier>
+				</default>
+				<default>
+					<type>Skill</type>
+					<name>Sword!</name>
+					<modifier>0</modifier>
+				</default>
+			</melee_weapon>
+			<categories>
+				<category>Melee Weapon</category>
+			</categories>
+		</equipment>
+		<equipment version="3" state="equipped">
+			<quantity>1</quantity>
+			<description>Large Knife</description>
+			<tech_level>0</tech_level>
+			<legality_class>4</legality_class>
+			<value>40</value>
+			<weight>1 lb</weight>
+			<reference>B272</reference>
+			<melee_weapon>
+				<damage>sw-2 cut</damage>
+				<strength>6</strength>
+				<usage>Swung</usage>
+				<reach>C,1</reach>
+				<parry>-1</parry>
+				<block>No</block>
+				<default>
+					<type>DX</type>
+					<modifier>-4</modifier>
+				</default>
+				<default>
+					<type>Skill</type>
+					<name>Knife</name>
+					<modifier>0</modifier>
+				</default>
+				<default>
+					<type>Skill</type>
+					<name>Force Sword</name>
+					<modifier>-3</modifier>
+				</default>
+				<default>
+					<type>Skill</type>
+					<name>Main-Gauche</name>
+					<modifier>-3</modifier>
+				</default>
+				<default>
+					<type>Skill</type>
+					<name>Shortsword</name>
+					<modifier>-3</modifier>
+				</default>
+				<default>
+					<type>Skill</type>
+					<name>Sword!</name>
+					<modifier>0</modifier>
+				</default>
+			</melee_weapon>
+			<melee_weapon>
+				<damage>thr imp</damage>
+				<strength>6</strength>
+				<usage>Thrust</usage>
+				<reach>C</reach>
+				<parry>-1</parry>
+				<block>No</block>
+				<default>
+					<type>DX</type>
+					<modifier>-4</modifier>
+				</default>
+				<default>
+					<type>Skill</type>
+					<name>Knife</name>
+					<modifier>0</modifier>
+				</default>
+				<default>
+					<type>Skill</type>
+					<name>Force Sword</name>
+					<modifier>-3</modifier>
+				</default>
+				<default>
+					<type>Skill</type>
+					<name>Main-Gauche</name>
+					<modifier>-3</modifier>
+				</default>
+				<default>
+					<type>Skill</type>
+					<name>Shortsword</name>
+					<modifier>-3</modifier>
+				</default>
+				<default>
+					<type>Skill</type>
+					<name>Sword!</name>
+					<modifier>0</modifier>
+				</default>
+			</melee_weapon>
+			<ranged_weapon>
+				<damage>thr imp</damage>
+				<strength>6</strength>
+				<usage>Thrown</usage>
+				<accuracy>+0</accuracy>
+				<range>x0.8/x1.5</range>
+				<rate_of_fire>1</rate_of_fire>
+				<shots>T(1)</shots>
+				<bulk>-2</bulk>
+				<default>
+					<type>DX</type>
+					<modifier>-4</modifier>
+				</default>
+				<default>
+					<type>Skill</type>
+					<name>Thrown Weapon</name>
+					<specialization>Knife</specialization>
+					<modifier>0</modifier>
+				</default>
+			</ranged_weapon>
+			<categories>
+				<category>Melee Weapon</category>
+				<category>Missile Weapon</category>
+			</categories>
+		</equipment>
+		<equipment version="3" state="equipped">
+			<quantity>1</quantity>
+			<description>Large Shield</description>
+			<tech_level>1</tech_level>
+			<legality_class>4</legality_class>
+			<value>90</value>
+			<weight>25 lb</weight>
+			<reference>B287</reference>
+			<melee_weapon>
+				<damage>thr cr</damage>
+				<strength>0</strength>
+				<usage>Shield Bash</usage>
+				<reach>1</reach>
+				<parry>No</parry>
+				<block>+0</block>
+				<default>
+					<type>DX</type>
+					<modifier>-4</modifier>
+				</default>
+				<default>
+					<type>Skill</type>
+					<name>Shield</name>
+					<specialization>Buckler</specialization>
+					<modifier>-2</modifier>
+				</default>
+				<default>
+					<type>Skill</type>
+					<name>Shield</name>
+					<specialization>Force Shield</specialization>
+					<modifier>-2</modifier>
+				</default>
+				<default>
+					<type>Skill</type>
+					<name>Shield</name>
+					<specialization>Shield</specialization>
+					<modifier>0</modifier>
+				</default>
+			</melee_weapon>
+			<categories>
+				<category>Shield</category>
+			</categories>
+			<attribute_bonus>
+				<attribute>dodge</attribute>
+				<amount>3</amount>
+			</attribute_bonus>
+			<attribute_bonus>
+				<attribute>parry</attribute>
+				<amount>3</amount>
+			</attribute_bonus>
+			<attribute_bonus>
+				<attribute>block</attribute>
+				<amount>3</amount>
+			</attribute_bonus>
+		</equipment>
+	</equipment_list>
+	<print_settings printer="Brother-DCP-1610W-series" units="in">
+		<orientation>portrait</orientation>
+		<width>8.267716407775879</width>
+		<height>11.692913055419922</height>
+		<top_margin>0.5</top_margin>
+		<left_margin>0.5</left_margin>
+		<bottom_margin>0.5</bottom_margin>
+		<right_margin>0.5</right_margin>
+		<ink_chromaticity>monochrome</ink_chromaticity>
+		<sides>single</sides>
+		<quality>normal</quality>
+	</print_settings>
+</character>
